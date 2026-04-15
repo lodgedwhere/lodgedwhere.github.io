@@ -1,0 +1,5 @@
+**"Carpe diem"**
+
+We tend to hear *carpe diem* as a rallying cry for ambition: “seize the day!”. But this common interpretation (grind, accomplish more, bend the world to your will) may invert its deeper meaning. To “seize” the day need not mean grasping at experience or extracting achievement from it. It may instead mean taking this moment fully *by ceasing to resist it*. The day is already here. Nothing needs to be added. What is required is not assertion, but the softening of the reflex that insists on standing apart from what is happening, pretending to be its conqueror.
+
+Seen this way, carpe diem is not motivational but existential. It is an invitation to drop the posture of separation: the subtle contraction that says “I am here, and the world is there.” When that bracing relaxes, there is no need to chase meaning or secure identity. One simply participates in what is already unfolding. To seize the day is to stop defending against it, and to discover that there is no space for improvement in a reality that already IS.
