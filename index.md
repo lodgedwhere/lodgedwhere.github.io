@@ -51,3 +51,6 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Ego is mind, minding itself](essays/ego-is-mind.md)
 - [A dynamical system and the false emergence of "me"](essays/dynamical-system-and-false-me.md)
 - [Knowing](essays/knowing.md)
+
+## Poems
+-[A Christmas poem](poems/xmas.md)
