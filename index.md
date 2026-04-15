@@ -30,3 +30,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Forgive to be forgiven](essays/forgive-to-be-forgiven.md)
 - [Did "you" "will" your own birth?](essays/did-you-will-your-own-birth.md)
 - [A minimal numeric model of "ego": no information beyond mutual information](essays/minimal-model-of-ego.md)
+- [Pulling on your bootstraps to stop sinking](essays/pulling-on-your-bootstraps.md)
