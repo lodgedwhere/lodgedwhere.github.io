@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+
+# Editor folders
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Optional: exported builds
+_site/
+dist/
