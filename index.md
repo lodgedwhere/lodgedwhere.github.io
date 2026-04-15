@@ -24,3 +24,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [From yardstick to identity](essays/from-yardstick-to-identity.md)
 - [An apology](essays/an-apology.md)
 - [The forgetting is the illusion](essays/the-forgetting-is-the-illusion.md)
+- [Ego death is no death at all](essays/ego-death-is-no-death-at-all.md)
