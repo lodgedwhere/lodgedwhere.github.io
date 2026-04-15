@@ -11,3 +11,19 @@ Despite this operational ambiguity, the distinction persists. Every subsequent a
 The apparent stability of this structure is sustained through mutual reinforcement. The identities, roles, and meanings that populate human life — “myself,” “my life,” “my rights,” “my property” — are not independently grounded truths, but interdependent constructions. They persist as stories, each supported by others, forming a network of shared distinctions that constitute society, culture, and civilization. Though tensions arise between one story and another, none stands alone; each relies on the coherence of the whole. Like reflections between mirrors without an original, or the jewels of Indra’s Net, they arise mutually and sustain one another without any underlying referent.
 
 Thus the entire edifice of meaning rests on a distinction that cannot justify its own orientation. The language that arises from it continues to function, but without ultimate support. What appears as a stable world of subjects and objects, selves and others, is the ongoing re-enactment of a primordial cut whose asymmetry is both necessary and ultimately groundless.
+
+------
+
+When Ramana Maharshi lay dying, those around him grieved what they took to be his imminent departure. They spoke as though something essential, a “someone”, was about to leave, to go elsewhere, to be lost: “Don’t leave us!”. In response, Ramana did not offer consolation, doctrine, or metaphysical reassurance. He asked a single, disarming question: “Where would I go?”
+
+Within the framework of ordinary thought, the question of “going” presupposes everything the preceding analysis has called into doubt. It assumes a determinate “I,” distinct from a world into which it might move or from which it might depart. It assumes space, separation, and the persistence of identity across change. Yet if the distinction between I and not-I is ungrounded — if it is the result of a symmetry-breaking act that cannot justify itself — then these assumptions no longer hold. There is no stable referent for “I,” and no independent domain of “not-I” to serve as a destination.
+
+Ramana’s response does not assert a new truth; it exposes the incoherence of the assumptions that support his friends’ pleas. It does not replace one story with another, but reveals that the structure required to sustain the story has already collapsed. In this way, his words embody concisely the very insight articulated above: that the distinction underpinning all such claims remains syntactically available but semantically inert. When seen clearly, even the most fundamental assumptions about self, movement, and loss are shown to rest on an ungrounded convention. The question of where “I” might go no longer refers to anything at all.
+
+-------
+
+Imagine G. Spencer-Brown whispering, at the end of Laws of Form,
+
+“Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.”
+
+The logic of seeking depends on ever finer distinctions, but because distinction itself is ungrounded, this process ultimately reveals its own impossibility. In this way, the path of knowledge fulfills itself by self-destruction. The “departure” of the distinction is not loss but necessity — only when the mark falls away can what was never divided — unspeakable, indistinguishable Reality itself — be evident.
