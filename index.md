@@ -1,6 +1,6 @@
-# First Distinction
+# Prior to Distinction
 
-Explorations of distinction, selfhood, and the nondual nature of reality.
+Analytic explorations of selfhood and the nondual nature of reality.
 
 ## Essays
 
