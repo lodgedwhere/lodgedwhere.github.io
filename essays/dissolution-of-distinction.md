@@ -1,4 +1,4 @@
-#Dissolution of distinction#
+**Dissolution of distinction#**
 
 The existence of any distinction implies a first distinction. For meaning to arise at all, something must be set apart from something else. Yet the creation of meaning that drives further elaboration of distinction requires more than mere difference; it requires orientation. The primordial cut is not simply between this and that, but between I and not-I. Only with this asymmetry does distinction become generative, giving rise to recognition, reference, and the unfolding of thought.
 
