@@ -54,6 +54,7 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Nativity as mirror](essays/nativity-as-mirror.md)
 - [Parmenides and Jesus, denied by Aristotle](essays/parmenides-and-jesus.md)
 - [Perfect as it is](essays/perfect-as-it-is.md)
+- [A Non-Ontological Cosmogony of Experience](essays/non-ontological-cosmogony-of-experience.md)
 
 ## Poems
 
