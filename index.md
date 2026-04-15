@@ -28,3 +28,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Wigner’s Mystery resolved by recognizing re-entry as the ground of appearance](essays/Wigners-mystery.md)
 - ["Carpe diem"](essays/Carpe-diem.md)
 - [Forgive to be forgiven](essays/forgive-to-be-forgiven.md)
+- [Did "you" "will" your own birth?](essays/did-you-will-your-own-birth.md)
