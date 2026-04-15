@@ -15,3 +15,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [The cost of knowing](essays/the-cost-of-knowing.md)
 - [Admitting it](essays/admitting-it.md)
 - [Reentry and "existence"](essays/reentry-and-existence.md)
+- [A diagnosis of anxiety](essays/a-diagnosis-of-anxiety.md)
