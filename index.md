@@ -52,6 +52,7 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [A dynamical system and the false emergence of "me"](essays/dynamical-system-and-false-me.md)
 - [Knowing](essays/knowing.md)
 - [Nativity as mirror](essays/nativity-as-mirror.md)
+- [Parmenides and Jesus, denied by Aristotle](essays/parmenides-and-jesus.md)
 
 ## Poems
 
