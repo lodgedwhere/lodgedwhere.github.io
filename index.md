@@ -41,3 +41,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Gauge freedom and "me"](essays/gauge-freedom-and-me.md)
 - [Boredom and the fiction of becoming](essays/boredom.md)
 - [Metanoia](essays/metanoia.md)
+- [A confusion about where meaning lives](essays/confusion-about-where-meaning-lives.md)
