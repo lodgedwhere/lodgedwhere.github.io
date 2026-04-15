@@ -1,0 +1,11 @@
+**Metanoia**
+
+The fundamental distinction of experience (splitting formless reality into a duality of I vs not-I) contains a quiet asymmetry: the subject “I” never appears to itself. Whatever is seen is “not-I”. From within this structure, any question about origin (Where did I come from? Who created me?) can only point outward, to the totality of what appears. Thus, in the deepest religious sense, God is not elsewhere, not hidden, not an object among objects. God is simply This: the whole field of appearance in which the question itself arises.
+
+To “hide from God”, to deny the fullness of experience, is therefore not a moral failure but the belief in a logical impossibility. It is the attempt to narrow awareness, to contract into a fragment of not-I, to pretend to be a bounded thing struggling within a hostile or indifferent world. This contraction gives rise to the felt presence of an internal task-master: an undeniable demand to persist, justify, improve, and defend an egoic self whose continuity must be endlessly maintained. What religion once called “sin” is better understood as this ongoing strain: the effort of hiding from omnipresence.
+
+Repentance (metanoia) is not punishment or atonement, but a turning around of attention. It is the simple cessation of the hiding project. Nothing new is acquired; rather, an impossible labor is abandoned. And while the phenomenal world remains unchanged…. chairs are still chairs, time still seems to pass… the collapse of the task-master is anything but trivial. It is an implosion. The accumulated energy of a lifetime of resistance inverts, and what was experienced as suffering is revealed as grace.
+
+The very principle that once enforced ego becomes the felt luminosity of freedom once it no longer has a job. The war ends… not in victory over an enemy, but in the recognition that \*the enemy never existed\*. The exile ends, and it becomes clear that Babylon never had an address.
+
+Thus awakening is both utterly ordinary and profoundly dramatic. Nothing changes, and everything changes. The world is the same, but the one who believed he had to hold it together is gone. What remains is not an attained state, but the relief of totality recognizing itself: dynamic, complete, and unimaginably intimate.
