@@ -154,4 +154,4 @@ end
 end
 ```
 
-![result](images/ego.png)
+![result](../images/ego.png)
