@@ -47,3 +47,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Belief is not a cause](essays/belief-not-a-cause.md)
 - [The music of life](essays/music-of-life.md)
 - [Death, Love, and the lie of identity](essays/death-love-lie-of-identity.md)
+- [A love without beginning or end](essays/love-without-beginning-or-end.md)
