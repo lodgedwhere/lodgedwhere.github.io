@@ -1,5 +1,4 @@
-Exhaustion of language
-*April 2026*
+**Exhaustion of language**
 
 The closer one comes to saying what is true, the farther one moves from anyone who can hear it. This is not a failure of skill, nor a limitation of vocabulary. It is a structural feature of language itself.
 
