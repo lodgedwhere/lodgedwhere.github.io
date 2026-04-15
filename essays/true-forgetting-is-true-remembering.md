@@ -37,3 +37,7 @@ Ego remembers by sustaining repetition. Truth remembers by being.
 And for those who know the story of Jesus,
 
 “Forgive, and you will be forgiven” - Luke 6:37
+
+---------------
+
+Something close to this insight appears, from very different directions, in the work of Arthur Schopenhauer and Ludwig Wittgenstein. Schopenhauer observed that the world as ordinarily known is structured by the distinction between subject and object, a framework sustained by the individual will. Yet in moments of aesthetic contemplation or compassion, the personal subject can dissolve while experience remains. Wittgenstein reached a similar boundary from logic: the self, he argued, is not an object within the world but the limit of the world, like the eye that cannot appear in its own visual field. Both insights point toward the same strange possibility, ie that when the structure organizing experience around a personal center falls silent, nothing essential is lost. What remains is simply the field that was present before the distinction between knower and known was drawn.
