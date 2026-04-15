@@ -13,3 +13,9 @@ Within this open process, the sense of a stable center—the “I”—arises as
 When this mechanism is seen, the contrast becomes experiential. What once appeared as a coherent, continuous world centered on a self is revealed as something else: an open field of distinctions that do not settle into finality. Nothing concludes. Nothing stands as ultimate. What remains is not chaos, but an ongoing, self-sustaining appearance that does not require closure to persist.
 
 Symbolic systems end. They resolve, terminate, or complete themselves according to their rules. But what appears does not end in this way. Its continuity is not the result of successful closure, but of its absence.
+
+-------
+
+TL;DR:
+
+Symbolic closure stabilizes the appearance of a self. Reentry continuously reestablishes that closure. Appearance does not enforce closure and remains open. The instability of a local closure within this openness is what appears as the drama of experience.
