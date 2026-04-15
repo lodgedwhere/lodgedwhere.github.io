@@ -16,6 +16,8 @@ Numerical simulations reveal a robust convergence toward nonzero mutual informat
 
 These observations support a broader interpretive conclusion. Apparent meaning and structure do not require external ontological grounding but can arise from the internal dynamics of distinction, marking, and reentry. Correlation replaces reference as the operative basis of intelligibility. What is experienced as lawfulness, memory, or identity may be understood merely as the self-consistency of a recursively evolving distinction process. Absolute meaning remains unavailable, yet relative meaning emerges as a *necessary and unavoidable consequence* of constraint propagation within a randomly-seeded, randomly-controlled reentrant sequence.
 
+See [A minimal model of ego](minimal-model-of-ego.md) for GNU/Octave code and graphic results for the bare essentials of this model: a two-bit memory.
+
 -----
 
 Within a distinction-based account of experience, the appearance of a world depends not merely on the existence of distinctions, but on the additional act of marking. A distinction without a mark contains no privileged orientation; it presents only symmetric possibility. Marking introduces asymmetry, selecting one side as operationally real relative to the system. In doing so, it generates the conditions for structure, persistence, and constraint. What is ordinarily taken as “the predicament of being” can then be understood as the consequence of treating the resolution of distinctions as necessary rather than optional.
