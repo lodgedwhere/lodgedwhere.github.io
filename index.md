@@ -44,3 +44,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [A confusion about where meaning lives](essays/confusion-about-where-meaning-lives.md)
 - [No one to become the "doer"](essays/no-one-to-become-the-doer.md)
 - [Throw away the key](essays/throw-away-the-key.md)
+- [Belief is not a cause](essays/belief-not-a-cause.md)
