@@ -45,3 +45,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [No one to become the "doer"](essays/no-one-to-become-the-doer.md)
 - [Throw away the key](essays/throw-away-the-key.md)
 - [Belief is not a cause](essays/belief-not-a-cause.md)
+- [The music of life](essays/music-of-life.md)
