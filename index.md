@@ -10,3 +10,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [The inevitable self-defeat of technological progress](essays/the-inevitable-self-defeat-of-technological-progress.md)
 - [The identity loop](essays/the-identity-loop.md)
 - [The oscillation of existential horror -- and its transcendence](essays/oscillation-of-existential-horror.md)
+- [No permission required](essays/no-permission-required.md)
