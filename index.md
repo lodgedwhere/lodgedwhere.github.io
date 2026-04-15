@@ -23,3 +23,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Scale invariance in patterns of distinction](essays/scale-invariance-in-patterns-of-distinction.md)
 - [From yardstick to identity](essays/from-yardstick-to-identity.md)
 - [An apology](essays/an-apology.md)
+- [The forgetting is the illusion](essays/the-forgetting-is-the-illusion.md)
