@@ -42,3 +42,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Boredom and the fiction of becoming](essays/boredom.md)
 - [Metanoia](essays/metanoia.md)
 - [A confusion about where meaning lives](essays/confusion-about-where-meaning-lives.md)
+- [No one to become the "doer"](essays/no-one-to-become-the-doer.md)
