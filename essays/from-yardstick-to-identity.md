@@ -1,0 +1,5 @@
+**From yardstick to identity**
+
+Duality begins when the present moment is compared to memory. Memory provides the yardstick; comparison produces better and worse, success and failure, meaning and interpretation. From that meaning arises the implication that there must be someone to whom it matters. In this way, the sense of a self is not the source of meaning but its byproduct: comparison generates value, value implies a valuer, and the valuer is mistaken for a real identity.
+
+But beware: a subtle error is made if one simply concludes from this insight that the details that ego generates from the present moment do not matter. This “spiritual bypassing” is only the same structure inverted. To say that something matters, or that it does not matter, both imply a someone for whom the evaluation is relevant. But when comparison to memory falls silent, the question of meaning never arises. Nothing needs to matter or not matter. What remains is simply the immediacy of experience itself, before interpretation.
