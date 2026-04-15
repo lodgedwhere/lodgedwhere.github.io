@@ -46,3 +46,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Throw away the key](essays/throw-away-the-key.md)
 - [Belief is not a cause](essays/belief-not-a-cause.md)
 - [The music of life](essays/music-of-life.md)
+- [Death, Love, and the lie of identity](essays/death-love-lie-of-identity.md)
