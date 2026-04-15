@@ -35,3 +35,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Truth, distinction, marking, and turiya](essays/truth-distinction-marking-turiya.md)
 - [Reentry as groundless ground](essays/reentry-as-groundless-ground.md)
 - [The church of blind calculation](essays/church-of-blind-calculation.md)
+- [Reentry as ego, communion as ritualized reentry](essays/reentry-as-ego.md))
