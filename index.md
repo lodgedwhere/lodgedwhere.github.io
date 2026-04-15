@@ -27,3 +27,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Ego death is no death at all](essays/ego-death-is-no-death-at-all.md)
 - [Wigner’s Mystery resolved by recognizing re-entry as the ground of appearance](essays/Wigners-mystery.md)
 - ["Carpe diem"](essays/Carpe-diem.md)
+- [Forgive to be forgiven](essays/forgive-to-be-forgiven.md)
