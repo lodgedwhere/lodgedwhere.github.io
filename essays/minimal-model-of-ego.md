@@ -153,3 +153,5 @@ end
 
 end
 ```
+
+![result](images/ego.png)
