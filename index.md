@@ -40,3 +40,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Reentry and self-expression](essays/reentry-and-self-expression.md)
 - [Gauge freedom and "me"](essays/gauge-freedom-and-me.md)
 - [Boredom and the fiction of becoming](essays/boredom.md)
+- [Metanoia](essays/metanoia.md)
