@@ -18,3 +18,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [A diagnosis of anxiety](essays/a-diagnosis-of-anxiety.md)
 - ["Forgive and you will be forgiven" — Luke 6:37](essays/forgive-and-you-will-be-forgiven.md)
 - [True forgetting is true remembering](essays/true-forgetting-is-true-remembering.md)
+- [The operational origin of the "I"](essays/operational-origin-of-I.md)
