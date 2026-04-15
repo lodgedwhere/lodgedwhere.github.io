@@ -50,3 +50,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [A love without beginning or end](essays/love-without-beginning-or-end.md)
 - [Ego is mind, minding itself](essays/ego-is-mind.md)
 - [A dynamical system and the false emergence of "me"](essays/dynamical-system-and-false-me.md)
+- [Knowing](essays/knowing.md)
