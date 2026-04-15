@@ -21,3 +21,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [The operational origin of the "I"](essays/operational-origin-of-I.md)
 - [On the recursive generation of ego](essays/recursive-generation-of-ego.md)
 - [Scale invariance in patterns of distinction](essays/scale-invariance-in-patterns-of-distinction.md)
+- [From yardstick to identity](essays/from-yardstick-to-identity.md)
