@@ -17,4 +17,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Reentry and "existence"](essays/reentry-and-existence.md)
 - [A diagnosis of anxiety](essays/a-diagnosis-of-anxiety.md)
 - ["Forgive and you will be forgiven" — Luke 6:37](essays/forgive-and-you-will-be-forgiven.md)
-- [True forgetting is true remembering](true-forgetting-is-true-remembering.md)
+- [True forgetting is true remembering](essays/true-forgetting-is-true-remembering.md)
