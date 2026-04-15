@@ -37,3 +37,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [The church of blind calculation](essays/church-of-blind-calculation.md)
 - [Reentry as ego, communion as ritualized reentry](essays/reentry-as-ego.md))
 - [Holonomy, reentry, and the primacy of awareness](essays/holonomy-reentry-awareness.md)
+- [Reentry and self-expression](essays/reentry-and-self-expression.md)
