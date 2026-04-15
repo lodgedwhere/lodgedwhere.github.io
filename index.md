@@ -16,3 +16,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Admitting it](essays/admitting-it.md)
 - [Reentry and "existence"](essays/reentry-and-existence.md)
 - [A diagnosis of anxiety](essays/a-diagnosis-of-anxiety.md)
+- ["Forgive and you will be forgiven" — Luke 6:37](essays/forgive-and-you-will-be-forgiven.md)
