@@ -29,4 +29,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - ["Carpe diem"](essays/Carpe-diem.md)
 - [Forgive to be forgiven](essays/forgive-to-be-forgiven.md)
 - [Did "you" "will" your own birth?](essays/did-you-will-your-own-birth.md)
-- [A minimal numeric model of "ego": no information beyond mutual information](essays/a-minimal-numeric-model-of-ego.md)
+- [A minimal numeric model of "ego": no information beyond mutual information](essays/minimal-model-of-ego.md)
