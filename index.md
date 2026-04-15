@@ -26,3 +26,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [The forgetting is the illusion](essays/the-forgetting-is-the-illusion.md)
 - [Ego death is no death at all](essays/ego-death-is-no-death-at-all.md)
 - [Wigner’s Mystery resolved by recognizing re-entry as the ground of appearance](essays/Wigners-mystery.md)
+- ["Carpe diem"](essays/Carpe-diem.md)
