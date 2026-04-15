@@ -4,4 +4,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 
 ## Essays
 
-- [First Distinction](essays/first-distinction.md)
+- [Exhaustion of language](essays/exhaustion-of-language.md)
