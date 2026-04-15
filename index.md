@@ -43,3 +43,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Metanoia](essays/metanoia.md)
 - [A confusion about where meaning lives](essays/confusion-about-where-meaning-lives.md)
 - [No one to become the "doer"](essays/no-one-to-become-the-doer.md)
+- [Throw away the key](essays/throw-away-the-key.md)
