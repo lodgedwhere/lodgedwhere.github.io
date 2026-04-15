@@ -13,3 +13,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [No permission required](essays/no-permission-required.md)
 - [Symbolic closure and the open field of reality](essays/symbolic-closure-and-the-open-field-of-reality.md)
 - [The cost of knowing](essays/the-cost-of-knowing.md)
+- [Admitting it](essays/admitting-it.md)
