@@ -1,4 +1,4 @@
-True Forgetting is True Remembering
+**True Forgetting is True Remembering**
 
 What is ordinarily called “remembering” is usually the reassembly of self:
 
