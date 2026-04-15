@@ -9,3 +9,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [The cloud of unknowing](essays/the-cloud-of-unknowing.md)
 - [The inevitable self-defeat of technological progress](essays/the-inevitable-self-defeat-of-technological-progress.md)
 - [The identity loop](essays/the-identity-loop.md)
+- [The oscillation of existential horror -- and its transcendence](essays/oscillation-of-existential-horror.md)
