@@ -145,7 +145,7 @@ for bb=1:2
 
 if Pab(a,bb) > 0
 
-I = I + Pab(a,bb) * log2(Pab(a,bb) / (Pa(a)\*Pb(bb)));
+I = I + Pab(a,bb) * log2(Pab(a,bb) / (Pa(a)*Pb(bb)));
 
 end
 
