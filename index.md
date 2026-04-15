@@ -54,4 +54,5 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [Nativity as mirror](essays/nativity-as-mirror.md)
 
 ## Poems
--[A Christmas poem](poems/xmas.md)
+
+- [A Christmas poem](poems/xmas.md)
