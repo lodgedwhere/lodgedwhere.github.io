@@ -34,3 +34,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [A model of spontaneous ego formation from bare distinction, marking, and reentry](essays/model-of-spontaneous-ego-formation.md)
 - [Truth, distinction, marking, and turiya](essays/truth-distinction-marking-turiya.md)
 - [Reentry as groundless ground](essays/reentry-as-groundless-ground.md)
+- [The church of blind calculation](essays/church-of-blind-calculation.md)
