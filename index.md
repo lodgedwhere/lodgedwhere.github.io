@@ -25,4 +25,4 @@ Explorations of distinction, selfhood, and the nondual nature of reality.
 - [An apology](essays/an-apology.md)
 - [The forgetting is the illusion](essays/the-forgetting-is-the-illusion.md)
 - [Ego death is no death at all](essays/ego-death-is-no-death-at-all.md)
-- [Wigner’s Mystery resolved by recognizing re-entry as the ground of appearance](Wigners-mystery.md)
+- [Wigner’s Mystery resolved by recognizing re-entry as the ground of appearance](essays/Wigners-mystery.md)
