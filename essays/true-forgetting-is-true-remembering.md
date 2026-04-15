@@ -2,13 +2,13 @@ True Forgetting is True Remembering
 
 What is ordinarily called “remembering” is usually the reassembly of self:
 
-my history, my wounds, my position, my meaning.
+*my history, my wounds, my position, my meaning.*
 
 It is continuity of the one who says “this happened to me.”
 
 But true forgetting is the falling away of that compulsive retrieval.
 
-Not amnesia, but rather liberation from the need to reconstruct the claimant.
+Not amnesia, but rather *liberation from the need to reconstruct the claimant.*
 
 And when that reconstruction ceases, what remains is not blankness but what was never absent.
 
@@ -28,7 +28,7 @@ but ceasing to remember the self that obscures Him.
 
 Perhaps,
 
-True forgetting is not the loss of truth, but of knowledge, which stands apart from absolute reality as provisional relations.
+True forgetting is not the loss of truth, but of *knowledge*, which stands apart from absolute reality as provisional relations.
 
 Or even:
 
