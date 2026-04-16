@@ -1,4 +1,4 @@
-“Forgive, and you will be forgiven.” — Luke 6:37
+**“Forgive, and you will be forgiven.” — Luke 6:37**
 
 This is usually understood as a moral reciprocity, ie if one pardons others, one will in turn receive pardon. But, the deeper structure of the statement refers to a nondual fundamental reality…
 
