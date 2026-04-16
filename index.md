@@ -64,4 +64,4 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [A Christmas poem](poems/xmas.md)
 
 
-[README](../README.md)
+[README](README.md)
