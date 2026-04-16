@@ -71,6 +71,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [“… to leave all doctrines and all teachers and to reach my goal alone – or die.”](essays/leave-all-doctrines.md)
 - [Thought-March to Emptiness: Wittgenstein’s Open Door](essays/thought-march-to-emptiness.md)
 - [Emptiness Is Not Nihilism — It Is Liberation](essays/emptiness-is-not-nihilism.md)
+- [A Thought-March to Emptiness (proto)](essays/thought-march-proto.md)
 
 ## Poems
 
