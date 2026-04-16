@@ -101,6 +101,7 @@ Links appear below in chronological order, more recent at the top.
 - [Symmetry](poems/symmetry.md)
 - [The world is not my enemy](poems/world-is-not-my-enemy.md)
 - [Matrix or mandala?](poems/matrix-or-mandala.md)
+- [The mirror that needs nothing](poems/mirror-needs-nothing.md)
 
 ## Reiterations
 
