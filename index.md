@@ -73,6 +73,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [Emptiness Is Not Nihilism — It Is Liberation](essays/emptiness-is-not-nihilism.md)
 - [A Thought-March to Emptiness (proto)](essays/thought-march-proto.md)
 - [Nonexistence of Ego: A Complete Argument](essays/nonexistence-of-ego.md)
+- [Interpreting the experiential effects of cannabis using a recursive self-referential matrix model of consciousness](essays/interpreting-cannabis.md)
 
 ## Poems
 
