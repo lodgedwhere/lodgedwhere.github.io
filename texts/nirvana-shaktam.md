@@ -1,3 +1,5 @@
+**Nirvana Shaktam, “Six Verses on Liberation” by Adi Shankaracharya (translated by Swami Vivekananda)**
+
 मनः बुद्ध्यहंकार चित्तानि नाहं
 (manō buddhyahaṅkāra cittāni nāham)
 
