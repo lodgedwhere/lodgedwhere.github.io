@@ -72,6 +72,7 @@ They are not meant to assert conclusions, but to follow the implications of bare
 - [Unpublished, uninvited preface to Cormac McCarthy’s masterpiece diptych, The Passenger & Stella Maris](essays/preface-to-the-passenger.md)
 - [Unpublished, Uninvited Foreword to G. Spencer-Brown’s Laws of Form](essays/forward-to-laws-of-form.md)
 - [The Engine That Drove Me: A Retrospective on Ambition, Breakdown, and Realization](essays/engine-that-drove-me.md)
+- [“… to leave all doctrines and all teachers and to reach my goal alone – or die.”](essays/leave-all-doctrines.md)
 
 ## Poems
 
