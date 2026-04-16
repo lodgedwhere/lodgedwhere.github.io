@@ -92,6 +92,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [A tautology from within](poems/tautology-from-within.md)
 - [A bodhisattva vision](poems/bodhisattva-vision.md)
 - [The gift](poems/the-gift.md)
+- [Just a poem, not a cry for help](poems/just-a-poem.md)
 
 ## Reiterations
 
