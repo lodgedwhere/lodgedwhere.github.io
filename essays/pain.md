@@ -6,4 +6,4 @@ So pain and suffering is not merely intensity. It is intensity plus interpretati
 
 This also suggests that what feels immediate is actually layered. There is the bare event, and then there is the organization of that event into bodily meaning. Memory supplies the context, and context supplies the suffering. Without that relational framing, there may still be sensation, even violent sensation, but not yet the same thing we call pain.
 
-Thus meaning is not inherent in the signal, but rather arises when distinction, memory, and identification are brought to bear on it. Pain is not only felt -- it is *recognized*. And recognition already contains a world.
+Thus meaning is not inherent in the signal, but rather arises when distinction, memory, and identification are brought to bear on it. Pain and suffering is not only felt -- it is *recognized*. And recognition already contains a relational, conditioned world.
