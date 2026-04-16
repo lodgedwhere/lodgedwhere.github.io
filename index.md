@@ -96,6 +96,7 @@ Links appear below in chronological order, more recent at the top.
 - [The gift](poems/the-gift.md)
 - [Just a poem, not a cry for help](poems/just-a-poem.md)
 - [After Nicaea](poems/after-nicaea.md)
+- [Before you die](poems/before-you-die.md)
 
 ## Reiterations
 
