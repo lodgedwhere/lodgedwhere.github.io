@@ -4,6 +4,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 
 ## Essays
 
+- [A symmetry of mind in past and future](essays/symmetry-of-mind-in-past-and-future.md)
 - [Meaning turns sensation into suffering](essays/pain.md)
 - [Exhaustion of language](essays/exhaustion-of-language.md)
 - [Dissolution of distinction](essays/dissolution-of-distinction.md)
