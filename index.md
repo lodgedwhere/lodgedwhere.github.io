@@ -2,11 +2,7 @@
 
 Analytic explorations of selfhood and the nondual nature of reality.
 
-## DISCLAIMER
-
-These writings are attempts to examine the structure of thought and the apparent division between self and world.
-
-They are not meant to assert conclusions, but to follow the implications of bare distinction and reentry as far as they go.
+*These writings are attempts to examine the structure of thought and the apparent division between self and world. They are not meant to assert conclusions, but to follow the implications of bare distinction and reentry as far as they go.*
 
 ## Essays
 - [The truth of *tikkun olam*](essays/tikkun-olam.md)
@@ -74,6 +70,7 @@ They are not meant to assert conclusions, but to follow the implications of bare
 - [The Engine That Drove Me: A Retrospective on Ambition, Breakdown, and Realization](essays/engine-that-drove-me.md)
 - [“… to leave all doctrines and all teachers and to reach my goal alone – or die.”](essays/leave-all-doctrines.md)
 - [Thought-March to Emptiness: Wittgenstein’s Open Door](essays/thought-march-to-emptiness.md)
+- [Emptiness Is Not Nihilism — It Is Liberation](essays/emptiness-is-not-nihilism.md)
 
 ## Poems
 
