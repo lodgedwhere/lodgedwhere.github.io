@@ -79,6 +79,7 @@ They are not meant to assert conclusions, but to follow the implications of bare
 ## Reiterations
 
 - [Nirvana Shaktam](texts/nirvana-shaktam.md)
+- [Dover Beach, Matthew Arnold (1867)](texts/dover-beach.md)
 
 ---
 
