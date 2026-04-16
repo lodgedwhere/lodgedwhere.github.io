@@ -4,6 +4,8 @@ Analytic explorations of selfhood and the nondual nature of reality.
 
 *These writings are attempts to examine the structure of thought and the apparent division between self and world. They are not meant to assert conclusions, but to follow the implications of bare distinction and reentry as far as they go.*
 
+Links appear below in chronological order, more recent at the top.
+
 ## Essays
 - [The truth of *tikkun olam*](essays/tikkun-olam.md)
 - [Knowledge, ignorance, truth, and bliss](essays/knowledge-ignorance-truth-bliss.md)
@@ -93,6 +95,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [A bodhisattva vision](poems/bodhisattva-vision.md)
 - [The gift](poems/the-gift.md)
 - [Just a poem, not a cry for help](poems/just-a-poem.md)
+- [After Nicaea](poems/after-nicaea.md)
 
 ## Reiterations
 
