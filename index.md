@@ -88,6 +88,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [The Horror That Wasn’t](poems/horror-that-wasnt.md)
 - [A tautology from within](poems/tautology-from-within.md)
 - [A bodhisattva vision](poems/bodhisattva-vision.md)
+- [The gift](poems/the-gift.md)
 
 ## Reiterations
 
