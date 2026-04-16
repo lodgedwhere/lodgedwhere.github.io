@@ -67,6 +67,7 @@ They are not meant to assert conclusions, but to follow the implications of bare
 - [From the preface to the 1971 edition of “Behold the Spirit”, Alan Watts](essays/from-behold-the-spirit.md)
 - [Truth and consequences](essays/truth-and-consequences.md)
 - [Chop wood, carry water](essays/chop-wood-carry-water.md)
+- [Trinity as music](essays/trinity-as-music.md)
 
 ## Poems
 
