@@ -78,6 +78,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [Further development of the dynamically recursive, relational matrix model of consciousness](essays/further-development-matrix-model.md)
 - [Existentialism, nihilism, and the Tautology from Within](essays/existentialism-nihilism-tautology.md)
 - [Clarity without chemicals](essays/clarity-without-chemicals.md)
+- [A personal analogy: Spencer-Brown and Paul of Tarsus](essays/personal-analogy.md)
   
 ## Poems
 
