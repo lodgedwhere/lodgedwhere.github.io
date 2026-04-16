@@ -1,4 +1,4 @@
-Admitting it
+**Admitting it**
 
 Meditation is often described as “getting used to it,” as if reality were something foreign that must be gradually tolerated. But a more precise description is this: meditation is admitting what has always already been the case, even though it conflicts with the unexamined assumptions of experience. Not acquiring a new state, but ceasing to deny the present one that is distorted by axiomatic structures.
 
