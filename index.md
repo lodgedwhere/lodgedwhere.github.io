@@ -87,6 +87,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [Make no claim](poems/make-no-claim.md)
 - [The Horror That Wasn’t](poems/horror-that-wasnt.md)
 - [A tautology from within](poems/tautology-from-within.md)
+- [A bodhisattva vision](poems/bodhisattva-vision.md)
 
 ## Reiterations
 
