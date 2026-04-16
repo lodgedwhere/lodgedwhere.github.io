@@ -80,6 +80,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [A Christmas poem](poems/xmas.md)
 - [The True Passion](poems/true-passion.md)
 - [Make no claim](poems/make-no-claim.md)
+- [The Horror That Wasn’t](poems/horror-that-wasnt.md)
 
 ## Reiterations
 
