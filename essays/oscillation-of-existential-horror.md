@@ -1,4 +1,4 @@
-The oscillation of existential horror - and its transcendence
+**The oscillation of existential horror - and its transcendence**
 
 There is a moment, usually triggered by the thought of death, in which the mind turns inward and asks what, exactly, would be lost:
 Who dies?
