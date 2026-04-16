@@ -97,6 +97,7 @@ Links appear below in chronological order, more recent at the top.
 - [Just a poem, not a cry for help](poems/just-a-poem.md)
 - [After Nicaea](poems/after-nicaea.md)
 - [Before you die](poems/before-you-die.md)
+- [Eternal love](poems/eternal-love.md)
 
 ## Reiterations
 
