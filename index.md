@@ -3,6 +3,7 @@
 Analytic explorations of selfhood and the nondual nature of reality.
 
 ## Essays
+- [The truth of *tikkun olam*](essays/tikkun-olam.md)
 - [Knowledge, ignorance, truth, and bliss](essays/knowledge-ignorance-truth-bliss.md)
 - [A symmetry of mind in past and future](essays/symmetry-of-mind-in-past-and-future.md)
 - [Meaning turns sensation into suffering](essays/pain.md)
