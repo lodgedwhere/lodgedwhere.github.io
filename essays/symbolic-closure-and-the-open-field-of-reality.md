@@ -1,4 +1,4 @@
-Symbolic Closure, and the Open Field of Reality
+**Symbolic Closure, and the Open Field of Reality**
 
 Symbolic systems close. This is not a limitation imposed from outside, but a requirement of their very function. A symbol operates by drawing a distinction and stabilizing it: this is this, not that. From such distinctions, relations can be built, references maintained, and loops completed. Even when symbolic systems become recursive, their recursion is governed. The rules of the system ensure that reentry resolves into identity, consistency, or at least local coherence. Closure is what allows symbols to mean anything at all.
 
