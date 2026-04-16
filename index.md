@@ -102,6 +102,7 @@ Links appear below in chronological order, more recent at the top.
 - [The world is not my enemy](poems/world-is-not-my-enemy.md)
 - [Matrix or mandala?](poems/matrix-or-mandala.md)
 - [The mirror that needs nothing](poems/mirror-needs-nothing.md)
+- [To speak the truth is already to hear it](poems/speak-truth-hear-it.md)
 
 ## Reiterations
 
