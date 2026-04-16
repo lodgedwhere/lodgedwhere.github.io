@@ -100,6 +100,7 @@ Links appear below in chronological order, more recent at the top.
 - [Eternal love](poems/eternal-love.md)
 - [Symmetry](poems/symmetry.md)
 - [The world is not my enemy](poems/world-is-not-my-enemy.md)
+- [Matrix or mandala?](poems/matrix-or-mandala.md)
 
 ## Reiterations
 
