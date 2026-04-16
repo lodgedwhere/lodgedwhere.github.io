@@ -69,6 +69,7 @@ They are not meant to assert conclusions, but to follow the implications of bare
 - [Chop wood, carry water](essays/chop-wood-carry-water.md)
 - [Trinity as music](essays/trinity-as-music.md)
 - [Unpublished, Uninvited Preface to the Holy Bible](essays/preface-to-bible.md)
+- [Unpublished, uninvited preface to Cormac McCarthy’s masterpiece diptych, The Passenger & Stella Maris](essays/preface-to-the-passenger.md)
 
 ## Poems
 
