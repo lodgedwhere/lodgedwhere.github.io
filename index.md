@@ -68,6 +68,7 @@ They are not meant to assert conclusions, but to follow the implications of bare
 - [Truth and consequences](essays/truth-and-consequences.md)
 - [Chop wood, carry water](essays/chop-wood-carry-water.md)
 - [Trinity as music](essays/trinity-as-music.md)
+- [Unpublished, Uninvited Preface to the Holy Bible](essays/preface-to-bible.md)
 
 ## Poems
 
