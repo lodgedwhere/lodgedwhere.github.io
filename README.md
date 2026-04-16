@@ -23,3 +23,7 @@ You are free to share and adapt this material for non-commercial purposes.
 Attribution is required.
 
 For full license details, see: https://creativecommons.org/licenses/by-nc/4.0/
+
+## Contact
+
+Questions and comments should be directed to the appropriate github [Issues page](https://github.com/lodgedwhere/lodgedwhere.github.io/issues)  
