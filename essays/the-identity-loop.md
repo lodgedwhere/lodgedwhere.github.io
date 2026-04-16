@@ -1,4 +1,4 @@
-The identity loop
+**The identity loop**
 
 What is ordinarily taken to be the self is not found as an object in experience. It is not seen, heard, or touched. It does not appear in the field alongside other phenomena. And yet it seems undeniably present, persistent, continuous, and central.
 
