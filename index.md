@@ -3,7 +3,7 @@
 Analytic explorations of selfhood and the nondual nature of reality.
 
 ## Essays
-
+- [Knowledge, ignorance, truth, and bliss](essays/knowledge-ignorance-truth-bliss.md)
 - [A symmetry of mind in past and future](essays/symmetry-of-mind-in-past-and-future.md)
 - [Meaning turns sensation into suffering](essays/pain.md)
 - [Exhaustion of language](essays/exhaustion-of-language.md)
