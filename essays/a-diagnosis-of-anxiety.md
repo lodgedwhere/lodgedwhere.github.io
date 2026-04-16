@@ -1,4 +1,4 @@
-A diagnosis of anxiety
+**A diagnosis of anxiety**
 
 Anxiety can be understood not as a response to the future, but as the felt consequence of a specific cognitive operation: the attempt to complete a loop of identity within mind that cannot, in principle, be completed.
 
