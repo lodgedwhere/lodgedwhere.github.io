@@ -77,6 +77,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [The Experiential Horror of Death, Exposed and Dissolved](essays/experiential-horror-of-death.md)
 - [Further development of the dynamically recursive, relational matrix model of consciousness](essays/further-development-matrix-model.md)
 - [Existentialism, nihilism, and the Tautology from Within](essays/existentialism-nihilism-tautology.md)
+- [Clarity without chemicals](essays/clarity-without-chemicals.md)
   
 ## Poems
 
