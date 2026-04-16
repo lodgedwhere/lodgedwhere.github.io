@@ -1,4 +1,4 @@
-No permission required
+**No permission required**
 
 The barrier to pure unconditional happiness is not suffering, confusion, or even ignorance.
 
