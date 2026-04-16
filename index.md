@@ -71,6 +71,7 @@ They are not meant to assert conclusions, but to follow the implications of bare
 - [Unpublished, Uninvited Preface to the Holy Bible](essays/preface-to-bible.md)
 - [Unpublished, uninvited preface to Cormac McCarthy’s masterpiece diptych, The Passenger & Stella Maris](essays/preface-to-the-passenger.md)
 - [Unpublished, Uninvited Foreword to G. Spencer-Brown’s Laws of Form](essays/forward-to-laws-of-form.md)
+- [The Engine That Drove Me: A Retrospective on Ambition, Breakdown, and Realization](essays/engine-that-drove-me.md)
 
 ## Poems
 
