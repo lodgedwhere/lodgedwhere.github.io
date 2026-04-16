@@ -1,4 +1,4 @@
-#The cloud of unknowing#
+**The cloud of unknowing**
 
 Language and symbolic representation quietly smuggle in axiomatic assumptions about the reality of things. The moment a distinction is made—this and that, subject and object, self and world—a provisional structure is installed. This structure is functional, enabling communication and coordination, but it carries an implicit suggestion: that these distinctions correspond to something inherently real. When the map is mistaken for the terrain it attempts to represent, innocuous thought becomes existential belief. “Understanding” and “knowing” then conceal the ungrounded nature of reality by taking these fractures as given. In fact, this fracturing into “things” is the only way mind can operate at all.
 
