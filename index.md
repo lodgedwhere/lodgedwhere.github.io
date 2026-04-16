@@ -65,6 +65,7 @@ They are not meant to assert conclusions, but to follow the implications of bare
 - [Perfect as it is](essays/perfect-as-it-is.md)
 - [A Non-Ontological Cosmogony of Experience](essays/non-ontological-cosmogony-of-experience.md)
 - [From the preface to the 1971 edition of “Behold the Spirit”, Alan Watts](essays/from-behold-the-spirit.md)
+- [Truth and consequences](essays/truth-and-consequences.md)
 
 ## Poems
 
