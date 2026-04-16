@@ -98,6 +98,7 @@ Links appear below in chronological order, more recent at the top.
 - [After Nicaea](poems/after-nicaea.md)
 - [Before you die](poems/before-you-die.md)
 - [Eternal love](poems/eternal-love.md)
+- [Symmetry](poems/symmetry.md)
 
 ## Reiterations
 
