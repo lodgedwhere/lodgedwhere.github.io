@@ -81,6 +81,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [A personal analogy: Spencer-Brown and Paul of Tarsus](essays/personal-analogy.md)
 - [Music is beautiful tautology, told in time](essays/music-beautiful-tautology.md)
 - [Now is transcendent](essays/now-is-transcendent.md)
+- [True medicine](essays/true-medicine.md)
   
 ## Poems
 
