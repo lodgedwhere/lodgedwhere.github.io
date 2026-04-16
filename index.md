@@ -69,7 +69,9 @@ They are not meant to assert conclusions, but to follow the implications of bare
 
 - [A Christmas poem](poems/xmas.md)
 
+## Reiterations
 
+- [Nirvana Shaktam](texts/nirvana-shaktam.md)
 
 ---
 
