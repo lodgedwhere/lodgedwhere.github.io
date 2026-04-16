@@ -99,6 +99,7 @@ Links appear below in chronological order, more recent at the top.
 - [Before you die](poems/before-you-die.md)
 - [Eternal love](poems/eternal-love.md)
 - [Symmetry](poems/symmetry.md)
+- [The world is not my enemy](poems/world-is-not-my-enemy.md)
 
 ## Reiterations
 
