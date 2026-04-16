@@ -72,6 +72,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [Thought-March to Emptiness: Wittgenstein’s Open Door](essays/thought-march-to-emptiness.md)
 - [Emptiness Is Not Nihilism — It Is Liberation](essays/emptiness-is-not-nihilism.md)
 - [A Thought-March to Emptiness (proto)](essays/thought-march-proto.md)
+- [Nonexistence of Ego: A Complete Argument](essays/nonexistence-of-ego.md)
 
 ## Poems
 
