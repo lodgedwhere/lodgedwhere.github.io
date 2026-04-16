@@ -1,4 +1,4 @@
-The inevitable self-defeat of technological progress
+**The inevitable self-defeat of technological progress**
 
 Technological progress is a movement away from immediacy. Each new layer of invention (tools, language, writing, computation) places an additional veil between consciousness and the raw fact of experience. The world becomes mediated through symbols, models, and representations. What is directly present is gradually replaced by what is described, measured, predicted, and manipulated. In this sense, technology appears as the very engine of separation.
 
