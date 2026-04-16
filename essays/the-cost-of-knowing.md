@@ -1,4 +1,4 @@
-The cost of knowing
+**The cost of knowing**
 
 The Whole cannot be known directly. To know is to distinguish, to take a part of what is undivided and use it as a ruler against the rest. Every act of knowledge depends on this prior cut. The ruler does not stand outside the Whole; it is made from it. Thus, all knowing is circular: the field is measured by a fragment that already presupposes a way of dividing it.
 
