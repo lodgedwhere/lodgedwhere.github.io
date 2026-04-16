@@ -73,6 +73,7 @@ They are not meant to assert conclusions, but to follow the implications of bare
 ## Poems
 
 - [A Christmas poem](poems/xmas.md)
+- [The True Passion](poems/true-passion.md)
 
 ## Reiterations
 
