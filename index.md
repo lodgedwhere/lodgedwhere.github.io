@@ -2,6 +2,12 @@
 
 Analytic explorations of selfhood and the nondual nature of reality.
 
+## DISCLAIMER
+
+These writings are attempts to examine the structure of thought and the apparent division between self and world.
+
+They are not meant to assert conclusions, but to follow the implications of bare distinction and reentry as far as they go.
+
 ## Essays
 - [The truth of *tikkun olam*](essays/tikkun-olam.md)
 - [Knowledge, ignorance, truth, and bliss](essays/knowledge-ignorance-truth-bliss.md)
@@ -64,4 +70,19 @@ Analytic explorations of selfhood and the nondual nature of reality.
 - [A Christmas poem](poems/xmas.md)
 
 
-[README](README.md)
+
+---
+
+## License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You are free to share and adapt this material for non-commercial purposes.  
+Attribution is required.
+
+For full license details, see: https://creativecommons.org/licenses/by-nc/4.0/
+
+## Contact
+
+Questions and comments should be directed to the appropriate github [Issues page](https://github.com/lodgedwhere/lodgedwhere.github.io/issues)  
+
