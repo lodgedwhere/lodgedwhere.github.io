@@ -4,6 +4,7 @@ Analytic explorations of selfhood and the nondual nature of reality.
 
 ## Essays
 
+- [Meaning turns sensation into suffering](essays/pain.md)
 - [Exhaustion of language](essays/exhaustion-of-language.md)
 - [Dissolution of distinction](essays/dissolution-of-distinction.md)
 - [The cloud of unknowing](essays/the-cloud-of-unknowing.md)
