@@ -103,6 +103,7 @@ Links appear below in chronological order, more recent at the top.
 - [Matrix or mandala?](poems/matrix-or-mandala.md)
 - [The mirror that needs nothing](poems/mirror-needs-nothing.md)
 - [To speak the truth is already to hear it](poems/speak-truth-hear-it.md)
+- [Admitting the truth](poems/admitting-the-truth.md)
 
 ## Reiterations
 
