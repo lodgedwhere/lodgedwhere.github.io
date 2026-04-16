@@ -1,4 +1,4 @@
-Reentry and "existence"
+**Reentry and "existence"**
 
 A useful way to model “existence,” as it appears to mind, is to begin with a distinction drawn in an undivided field. This first act is not yet the creation of a thing, but a gesture of indication — an attempt to bound what is taken as “This.” Because the field is originally unmarked, this boundary cannot truly isolate anything. It does not separate an inside from an outside in any final sense; it only provisionally indicates a region. As such, the first distinction is inherently unstable. It attempts to name what has no true opposite, and so it cannot rest as a completed act.
 
