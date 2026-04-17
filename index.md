@@ -89,6 +89,9 @@ Links appear below in chronological order, more recent at the top.
 - [Cosmogony](essays/cosmogony.md)
 - [Mathematics cries Uncle](essays/mathematics-cries-uncle.md)
 - [Mathematics of the illusion](essays/math-of-the-illusion.md)
+
+## Aphorisms
+- [Let the muse speak](aphorisms/let-the-muse-speak.md)
   
 ## Poems
 
