@@ -90,7 +90,7 @@ Links appear below in chronological order, more recent at the top.
 - [Mathematics of the illusion](essays/math-of-the-illusion.md)
 - [The metaphysics of compassionate recursion](essays/metaphysics-compassionate-recursion.md)
 
-## Aphorisms
+## Fragments
 - [Let the muse speak](aphorisms/let-the-muse-speak.md)
 - [Union at last](aphorisms/union-at-last.md)
 - [A journey into annihilation](aphorisms/journey-annihilation.md)
