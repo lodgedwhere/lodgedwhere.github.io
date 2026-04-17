@@ -86,6 +86,7 @@ Links appear below in chronological order, more recent at the top.
 - [Mathematics of the illusion](essays/math-of-the-illusion.md)
 - [The metaphysics of compassionate recursion](essays/metaphysics-compassionate-recursion.md)
 - [Autopsy of fear](essays/autopsy-of-fear.md)
+- [Amputation](essays/amputation.md)
  
 ## Fragments
 
