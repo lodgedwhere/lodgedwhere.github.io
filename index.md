@@ -129,6 +129,7 @@ Links appear below in chronological order, more recent at the top.
 - [Union at last](poems/union-at-last.md)
 - [Let the muse speak](poems/let-the-muse-speak.md)
 - [Chop wood, carry water](poems/chop-wood-carry-water.md)
+- [The clear waters of knowing](poems/clear-waters-knowing.md)
   
 ## Reiterations
 
