@@ -14,3 +14,4 @@ triumph and defeat,
 pain and pleasure.
 Embrace it by letting go of all else.
 ```
+![Maharaji and Ram Dass](../images/maharaji.webp)
