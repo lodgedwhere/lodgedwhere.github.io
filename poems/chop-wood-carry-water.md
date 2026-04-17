@@ -1,5 +1,6 @@
 **Chop wood, carry water**
 
+```
 The ego’s only motivation is to write its name for God to see.
 But God is always named as some form or another,
 when God is not a thing at all,
@@ -18,3 +19,4 @@ but because nothing stands outside the act to sanctify it.
 
 Chop wood.
 Carry water.
+```
