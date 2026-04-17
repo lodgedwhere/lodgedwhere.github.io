@@ -50,3 +50,4 @@ life ceases to be something you *have* —
 it becomes what you *are*.
 
 ```
+![buddha in bathwater](../images/buddha-in-bathwater.webp)
