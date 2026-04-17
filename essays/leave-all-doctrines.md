@@ -40,3 +40,18 @@ or
 “I did this,”
 or
 “Follow.”
+
+----
+
+
+*Matthew 23:8-12*
+
+8 But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren.
+
+9 And call no man your father upon the earth: for one is your Father, which is in heaven.
+
+10 Neither be ye called masters: for one is your Master, even Christ.
+
+11 But he that is greatest among you shall be your servant.
+
+12 And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.
