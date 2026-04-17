@@ -33,7 +33,6 @@ Links appear below in chronological order, more recent at the top.
 - [The forgetting is the illusion](essays/the-forgetting-is-the-illusion.md)
 - [Ego death is no death at all](essays/ego-death-is-no-death-at-all.md)
 - [Wigner’s Mystery resolved by recognizing re-entry as the ground of appearance](essays/Wigners-mystery.md)
-- ["Carpe diem"](essays/Carpe-diem.md)
 - [Forgive to be forgiven](essays/forgive-to-be-forgiven.md)
 - [Did "you" "will" your own birth?](essays/did-you-will-your-own-birth.md)
 - [A minimal numeric model of "ego": no information beyond mutual information](essays/minimal-model-of-ego.md)
@@ -95,7 +94,8 @@ Links appear below in chronological order, more recent at the top.
 - [Union at last](aphorisms/union-at-last.md)
 - [A journey into annihilation](aphorisms/journey-annihilation.md)
 - [A Babylon of Pharisees](aphorisms/babylon-pharisees.md)
-- [Beneath it all](essays/beneath-it-all.md)
+- [Beneath it all](aphorisms/beneath-it-all.md)
+- ["Carpe diem"](aphorisms/Carpe-diem.md)
   
 ## Poems
 
