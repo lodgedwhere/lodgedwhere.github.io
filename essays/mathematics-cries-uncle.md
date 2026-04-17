@@ -1,5 +1,7 @@
 **Mathematics cries uncle**
 
+![video of reentrant matrix basis division](images/zoom3b.gif)
+
 A thought experiment begins with a matrix whose entries represent relations among “things.” Each row and column corresponds to a distinguishable element of experience — a “chair,” a “table,” an “I.” The off-diagonal elements encode relations between them, while the diagonal entries would, in principle, represent the intrinsic essence of each “thing” in itself.
 
 But attempting to define a nonzero diagonal element immediately collapses into recursion: each “thing” must be further resolved into smaller constituents, each with their own matrix of relations. Every diagonal element hides within it another matrix whose diagonals are again undefined. This process continues infinitely — distinctions within distinctions — generating an unbounded hierarchy.
