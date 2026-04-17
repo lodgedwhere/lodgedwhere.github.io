@@ -63,7 +63,6 @@ Links appear below in chronological order, more recent at the top.
 - [A Non-Ontological Cosmogony of Experience](essays/non-ontological-cosmogony-of-experience.md)
 - [From the preface to the 1971 edition of “Behold the Spirit”, Alan Watts](essays/from-behold-the-spirit.md)
 - [Truth and consequences](essays/truth-and-consequences.md)
-- [Chop wood, carry water](essays/chop-wood-carry-water.md)
 - [Trinity as music](essays/trinity-as-music.md)
 - [Unpublished, Uninvited Preface to the Holy Bible](essays/preface-to-bible.md)
 - [Unpublished, uninvited preface to Cormac McCarthy’s masterpiece diptych, The Passenger & Stella Maris](essays/preface-to-the-passenger.md)
@@ -129,6 +128,7 @@ Links appear below in chronological order, more recent at the top.
 - [Maharaji](poems/maharaji.md)
 - [Union at last](poems/union-at-last.md)
 - [Let the muse speak](poems/let-the-muse-speak.md)
+- [Chop wood, carry water](poems/chop-wood-carry-water.md)
   
 ## Reiterations
 
