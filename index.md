@@ -42,7 +42,7 @@ Links appear below in chronological order, more recent at the top.
 - [Truth, distinction, marking, and turiya](essays/truth-distinction-marking-turiya.md)
 - [Reentry as groundless ground](essays/reentry-as-groundless-ground.md)
 - [The church of blind calculation](essays/church-of-blind-calculation.md)
-- [Reentry as ego, communion as ritualized reentry](essays/reentry-as-ego.md))
+- [Reentry as ego, communion as ritualized reentry](essays/reentry-as-ego.md)
 - [Holonomy, reentry, and the primacy of awareness](essays/holonomy-reentry-awareness.md)
 - [Reentry and self-expression](essays/reentry-and-self-expression.md)
 - [Gauge freedom and "me"](essays/gauge-freedom-and-me.md)
