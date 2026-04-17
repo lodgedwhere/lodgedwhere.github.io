@@ -80,7 +80,6 @@ Links appear below in chronological order, more recent at the top.
 - [Clarity without chemicals](essays/clarity-without-chemicals.md)
 - [A personal analogy: Spencer-Brown and Paul of Tarsus](essays/personal-analogy.md)
 - [Music is beautiful tautology, told in time](essays/music-beautiful-tautology.md)
-- [Now is transcendent](essays/now-is-transcendent.md)
 - [True medicine](essays/true-medicine.md)
 - [Language to manifest a mirror](essays/language-to-manifest-a-mirror.md)
 - [Cosmogony](essays/cosmogony.md)
@@ -94,6 +93,7 @@ Links appear below in chronological order, more recent at the top.
 - [A Babylon of Pharisees](fragments/babylon-pharisees.md)
 - [Beneath it all](fragments/beneath-it-all.md)
 - ["Carpe diem"](fragments/carpe-diem.md)
+- [Now is transcendent](fragments/now-is-transcendent.md)
   
 ## Poems
 
