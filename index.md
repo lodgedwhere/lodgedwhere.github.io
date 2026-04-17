@@ -107,8 +107,10 @@ Links appear below in chronological order, more recent at the top.
 
 ## Reiterations
 
-- [Nirvana Shaktam](texts/nirvana-shaktam.md)
+- [Nirvana Shaktam, Adi Shankara (8th century CE)](texts/nirvana-shaktam.md)
 - [Dover Beach, Matthew Arnold (1867)](texts/dover-beach.md)
+- [Ozymandias, Percy Bysshe Shelley (1818)](texts/ozymandias.md)
+- [Opening of *Heike Monogatari* (14th century CE)](texts/heike.md)
 
 ---
 
