@@ -94,7 +94,7 @@ Links appear below in chronological order, more recent at the top.
 - ["Carpe diem"](fragments/carpe-diem.md)
 - [Now is transcendent](fragments/now-is-transcendent.md)
 - [Perfect as it is](fragments/perfect-as-it-is.md)
--   
+  
 ## Poems
 
 - [A Christmas poem](poems/xmas.md)
