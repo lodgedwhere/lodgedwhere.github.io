@@ -124,6 +124,7 @@ Links appear below in chronological order, more recent at the top.
 - [The burden of yourself](poems/burden-of-yourself.md)
 - [I am a sinner](poems/I-am-a-sinner.md)
 - [Lullaby](poems/lullaby.md)
+- [The bitterest medicine](poems/bitterest-medicine.md)
 
 ## Reiterations
 
