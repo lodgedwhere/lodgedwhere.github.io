@@ -105,6 +105,7 @@ Links appear below in chronological order, more recent at the top.
 - [To speak the truth is already to hear it](poems/speak-truth-hear-it.md)
 - [Admitting the truth](poems/admitting-the-truth.md)
 - [Muttering into the void](poems/muttering-into-void.md)
+- [Exhale](poems/exhale.md)
 
 ## Reiterations
 
