@@ -87,6 +87,7 @@ Links appear below in chronological order, more recent at the top.
 - [Beneath it all](essays/beneath-it-all.md)
 - [Language to manifest a mirror](essays/language-to-manifest-a-mirror.md)
 - [Cosmogony](essays/cosmogony.md)
+- [Mathematics cries Uncle](essays/mathematics-cries-uncle.md)
   
 ## Poems
 
