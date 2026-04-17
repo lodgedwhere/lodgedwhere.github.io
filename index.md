@@ -88,14 +88,13 @@ Links appear below in chronological order, more recent at the top.
 - [Mathematics cries Uncle](essays/mathematics-cries-uncle.md)
 - [Mathematics of the illusion](essays/math-of-the-illusion.md)
 - [The metaphysics of compassionate recursion](essays/metaphysics-compassionate-recursion.md)
-
+- 
 ## Fragments
-- [Let the muse speak](aphorisms/let-the-muse-speak.md)
-- [Union at last](aphorisms/union-at-last.md)
-- [A journey into annihilation](aphorisms/journey-annihilation.md)
-- [A Babylon of Pharisees](aphorisms/babylon-pharisees.md)
-- [Beneath it all](aphorisms/beneath-it-all.md)
-- ["Carpe diem"](aphorisms/Carpe-diem.md)
+- [Let the muse speak](fragments/let-the-muse-speak.md)
+- [A journey into annihilation](fragments/journey-annihilation.md)
+- [A Babylon of Pharisees](fragments/babylon-pharisees.md)
+- [Beneath it all](fragments/beneath-it-all.md)
+- ["Carpe diem"](fragments/carpe-diem.md)
   
 ## Poems
 
@@ -128,7 +127,8 @@ Links appear below in chronological order, more recent at the top.
 - [Lullaby](poems/lullaby.md)
 - [The bitterest medicine](poems/bitterest-medicine.md)
 - [Maharaji](poems/maharaji.md)
-
+- [Union at last](poems/union-at-last.md)
+  
 ## Reiterations
 
 - [Nirvana Shaktam, Adi Shankara (8th century CE)](texts/nirvana-shaktam.md)
