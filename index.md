@@ -111,6 +111,7 @@ Links appear below in chronological order, more recent at the top.
 - [Admitting the truth](poems/admitting-the-truth.md)
 - [Muttering into the void](poems/muttering-into-void.md)
 - [Exhale](poems/exhale.md)
+- [Whereof...](poems/whereof.md)
 
 ## Reiterations
 
