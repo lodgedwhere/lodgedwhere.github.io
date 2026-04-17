@@ -116,6 +116,7 @@ Links appear below in chronological order, more recent at the top.
 - [Compassion](poems/compassion.md)
 - [Unspeakable](poems/unspeakable.md)
 - [Love is a mirror](poems/love-mirror.md)
+- [The burden of yourself](poems/burden-of-yourself.md)
 
 ## Reiterations
 
