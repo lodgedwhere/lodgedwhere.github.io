@@ -84,7 +84,6 @@ Links appear below in chronological order, more recent at the top.
 - [Music is beautiful tautology, told in time](essays/music-beautiful-tautology.md)
 - [Now is transcendent](essays/now-is-transcendent.md)
 - [True medicine](essays/true-medicine.md)
-- [Beneath it all](essays/beneath-it-all.md)
 - [Language to manifest a mirror](essays/language-to-manifest-a-mirror.md)
 - [Cosmogony](essays/cosmogony.md)
 - [Mathematics cries Uncle](essays/mathematics-cries-uncle.md)
@@ -96,6 +95,7 @@ Links appear below in chronological order, more recent at the top.
 - [Union at last](aphorisms/union-at-last.md)
 - [A journey into annihilation](aphorisms/journey-annihilation.md)
 - [A Babylon of Pharisees](aphorisms/babylon-pharisees.md)
+- [Beneath it all](essays/beneath-it-all.md)
   
 ## Poems
 
