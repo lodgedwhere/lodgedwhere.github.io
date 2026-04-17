@@ -1,5 +1,6 @@
 **Let the muse speak**
 
+```
 What you’re “supposed” to do cannot be known,
 because to do it, all your notions of “you” must be absent.
 The river does not ask where it is going.
@@ -15,3 +16,4 @@ spontaneous, effortless, whole.
 You were never meant to find the path.
 You were meant to remember
 that you *are* the path.
+```
