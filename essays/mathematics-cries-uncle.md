@@ -1,6 +1,6 @@
 **Mathematics cries uncle**
 
-![video of reentrant matrix basis division](images/zoom3b.gif)
+![video of reentrant matrix basis division](../images/zoom3b.gif)
 
 A thought experiment begins with a matrix whose entries represent relations among “things.” Each row and column corresponds to a distinguishable element of experience — a “chair,” a “table,” an “I.” The off-diagonal elements encode relations between them, while the diagonal entries would, in principle, represent the intrinsic essence of each “thing” in itself.
 
