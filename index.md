@@ -95,6 +95,7 @@ Links appear below in chronological order, more recent at the top.
 - [Let the muse speak](aphorisms/let-the-muse-speak.md)
 - [Union at last](aphorisms/union-at-last.md)
 - [A journey into annihilation](aphorisms/journey-annihilation.md)
+- [A Babylon of Pharisees](aphorisms/babylon-pharisees.md)
   
 ## Poems
 
