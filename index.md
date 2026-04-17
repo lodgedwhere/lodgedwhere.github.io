@@ -89,6 +89,7 @@ Links appear below in chronological order, more recent at the top.
 - [Cosmogony](essays/cosmogony.md)
 - [Mathematics cries Uncle](essays/mathematics-cries-uncle.md)
 - [Mathematics of the illusion](essays/math-of-the-illusion.md)
+- [The metaphysics of compassionate recursion](essays/metaphysics-compassionate-recursion.md)
 
 ## Aphorisms
 - [Let the muse speak](aphorisms/let-the-muse-speak.md)
