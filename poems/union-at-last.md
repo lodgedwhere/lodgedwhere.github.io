@@ -1,5 +1,6 @@
 **Union at last** 
 
+```
 Within the stillness that precedes all worlds,
 awareness beholds itself and dreams of form.
 In that dreaming arise time and thought,
@@ -23,3 +24,4 @@ for there is no distance to cross—
 only the timeless recognition:
 
 “Before Abraham was, I AM.”
+```
