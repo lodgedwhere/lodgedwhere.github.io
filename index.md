@@ -88,9 +88,9 @@ Links appear below in chronological order, more recent at the top.
 - [Mathematics cries Uncle](essays/mathematics-cries-uncle.md)
 - [Mathematics of the illusion](essays/math-of-the-illusion.md)
 - [The metaphysics of compassionate recursion](essays/metaphysics-compassionate-recursion.md)
-- 
+ 
 ## Fragments
-- [Let the muse speak](fragments/let-the-muse-speak.md)
+
 - [A journey into annihilation](fragments/journey-annihilation.md)
 - [A Babylon of Pharisees](fragments/babylon-pharisees.md)
 - [Beneath it all](fragments/beneath-it-all.md)
@@ -128,6 +128,7 @@ Links appear below in chronological order, more recent at the top.
 - [The bitterest medicine](poems/bitterest-medicine.md)
 - [Maharaji](poems/maharaji.md)
 - [Union at last](poems/union-at-last.md)
+- [Let the muse speak](poems/let-the-muse-speak.md)
   
 ## Reiterations
 
