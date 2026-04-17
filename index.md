@@ -93,6 +93,7 @@ Links appear below in chronological order, more recent at the top.
 
 ## Aphorisms
 - [Let the muse speak](aphorisms/let-the-muse-speak.md)
+- [Union at last](aphorisms/union-at-last.md)
   
 ## Poems
 
