@@ -88,6 +88,7 @@ Links appear below in chronological order, more recent at the top.
 - [Language to manifest a mirror](essays/language-to-manifest-a-mirror.md)
 - [Cosmogony](essays/cosmogony.md)
 - [Mathematics cries Uncle](essays/mathematics-cries-uncle.md)
+- [Mathematics of the illusion](essays/math-of-the-illusion.md)
   
 ## Poems
 
