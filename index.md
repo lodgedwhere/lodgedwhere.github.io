@@ -84,6 +84,7 @@ Links appear below in chronological order, more recent at the top.
 - [Music is beautiful tautology, told in time](essays/music-beautiful-tautology.md)
 - [Now is transcendent](essays/now-is-transcendent.md)
 - [True medicine](essays/true-medicine.md)
+- [Beneath it all](essays/beneath-it-all.md)
   
 ## Poems
 
