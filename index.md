@@ -59,7 +59,6 @@ Links appear below in chronological order, more recent at the top.
 - [Knowing](essays/knowing.md)
 - [Nativity as mirror](essays/nativity-as-mirror.md)
 - [Parmenides and Jesus, denied by Aristotle](essays/parmenides-and-jesus.md)
-- [Perfect as it is](essays/perfect-as-it-is.md)
 - [A Non-Ontological Cosmogony of Experience](essays/non-ontological-cosmogony-of-experience.md)
 - [From the preface to the 1971 edition of “Behold the Spirit”, Alan Watts](essays/from-behold-the-spirit.md)
 - [Truth and consequences](essays/truth-and-consequences.md)
@@ -94,7 +93,8 @@ Links appear below in chronological order, more recent at the top.
 - [Beneath it all](fragments/beneath-it-all.md)
 - ["Carpe diem"](fragments/carpe-diem.md)
 - [Now is transcendent](fragments/now-is-transcendent.md)
-  
+- [Perfect as it is](fragments/perfect-as-it-is.md)
+-   
 ## Poems
 
 - [A Christmas poem](poems/xmas.md)
