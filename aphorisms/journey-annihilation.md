@@ -1,0 +1,3 @@
+**A journey into annihilation**
+
+The process of letting go is an increasingly terrifying journey. As the old security blankets of persona dissolve, the mind claws for form, for anything to hold onto — but there is nothing. Every refuge collapses. The horrible mystery you’ve been fleeing your whole life closes in, and the fundamental mortality of existence stands revealed: that which is born must die. The terror grows unbearable, for even the one who suffers it begins to vanish. Yet this is the threshold — the summit that can only be crossed by being utterly emptied. When nothing remains, when there is no one left to flee, the final illusion falls away. What seemed horror is seen as ignorance, and beyond it — only Truth.
