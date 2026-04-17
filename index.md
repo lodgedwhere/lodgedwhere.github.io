@@ -115,6 +115,7 @@ Links appear below in chronological order, more recent at the top.
 - [No "you" to "do"](poems/no-you-to-do.md)
 - [Compassion](poems/compassion.md)
 - [Unspeakable](poems/unspeakable.md)
+- [Love is a mirror](poems/love-mirror.md)
 
 ## Reiterations
 
