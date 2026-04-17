@@ -127,6 +127,7 @@ Links appear below in chronological order, more recent at the top.
 - [I am a sinner](poems/I-am-a-sinner.md)
 - [Lullaby](poems/lullaby.md)
 - [The bitterest medicine](poems/bitterest-medicine.md)
+- [Maharaji](poems/maharaji.md)
 
 ## Reiterations
 
