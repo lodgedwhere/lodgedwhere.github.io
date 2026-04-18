@@ -28,6 +28,8 @@ Fold is not defined by any particular content, but by the continued generation o
 
 However, accumulation does not proceed without consequence. As distinctions multiply, they do not remain independent. They intersect, overlap, and conflict. What is marked by one distinction may be unmarked by another. Inconsistencies arise.
 
+In other words, the availability of more than one kind of distinction makes possible distinctions between distinctions. These, in turn, allow relations to be drawn across distinctions. As such relations proliferate, the system eventually imposes incompatible constraints upon itself.
+
 These inconsistencies are not merely logical. They are structural tensions within the system. Where distinctions cannot be jointly maintained, the system is strained. This strain is experienced as suffering.
 
 Suffering, in this sense, is not an added property. It is the felt aspect of unresolved inconsistency among proliferating distinctions.
