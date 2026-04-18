@@ -2,7 +2,8 @@
 *This is what happens when the mind looks in the mirror*
 ----
 
-Analytic explorations of selfhood and the nondual nature of reality.
+Explorations of selfhood and the nondual nature of reality;
+or, a rediscovery of what is already the case.
 
 *These writings are attempts to examine the structure of thought and the apparent division between self and world. They are not meant to assert conclusions, but to follow the implications of bare distinction and reentry as far as they go.*
 
