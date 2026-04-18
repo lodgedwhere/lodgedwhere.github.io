@@ -1,5 +1,6 @@
 # Prior to Distinction
 *This is what happens when the mind looks in the mirror*
+----
 
 Analytic explorations of selfhood and the nondual nature of reality.
 
