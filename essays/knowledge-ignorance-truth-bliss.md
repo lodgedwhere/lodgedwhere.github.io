@@ -1,6 +1,6 @@
 **Knowledge, ignorance, truth, and bliss**
 
- “Ignorance is bliss” is usually understood to mean that a lack of knowledge protects us from discomfort or suffering. Not knowing certain facts—about ourselves, others, or the world—can spare us anxiety, doubt, or pain. In this conventional sense, ignorance is seen as a kind of naive shelter, oblivious to inevitable consequences.
+ “Ignorance is bliss” is usually understood to mean that a lack of knowledge protects us from discomfort or suffering. Not knowing certain facts—about ourselves, others, or the world—can spare us anxiety, doubt, or pain. In this conventional sense, ignorance is seen as a kind of naive shelter, where a fool can be oblivious to inevitable consequences.
 
 But this interpretation rests on an unexamined assumption: that knowledge is inherently closer to truth, and therefore more real, more authoritative, and ultimately more binding.
 
