@@ -11,6 +11,7 @@ Links appear below in chronological order, more recent at the top.
 
 ## Essays
 
+- [Emergence of reflexivity](essays/emergence-of-reflexivity.md)
 - [A defense of distinction as the ground of mind](essays/defense-of-distinction.md)
 - [Irreducible paradox](essays/irreducible-paradox.md)
 - [Why you can't hear the truth](essays/why-you-cant-hear.md)
