@@ -97,6 +97,7 @@ Links appear below in chronological order, more recent at the top.
  
 ## Fragments
 
+- [The structural effectiveness of "Be Here Now"](fragments/be-here-now.md)
 - [A journey into annihilation](fragments/journey-annihilation.md)
 - [A Babylon of Pharisees](fragments/babylon-pharisees.md)
 - [Beneath it all](fragments/beneath-it-all.md)
