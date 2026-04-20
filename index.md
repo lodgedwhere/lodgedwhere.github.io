@@ -10,6 +10,8 @@ or, a rediscovery of what is already the case.
 Links appear below in chronological order, more recent at the top.
 
 ## Essays
+
+- [Irreducible paradox](essays/irreducible-paradox.md)
 - [Why you can't hear the truth](essays/why-you-cant-hear.md)
 - [Limits of distinction](essays/limits-of-distinction.md)
 - [The true meaning of *tikkun olam*](essays/tikkun-olam.md)
