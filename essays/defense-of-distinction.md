@@ -1,0 +1,13 @@
+**A defense of distinction**
+
+The claim that distinction is fundamental is often misunderstood as a statement about the nature of reality. Properly understood, it is not an ontological thesis but a transcendental one. It does not assert that reality itself is composed of distinctions, but rather that any act of thought, any use of language, and any formulation of a question presupposes the availability of distinction.
+
+There may well be an undifferentiated field of experience prior to conceptualization—an immediate, pre-reflective domain in which no clear separations are drawn between subject and object, self and world, or one thing and another. Such experience may be lived, but it is not yet thinkable in any articulate sense. The moment one attempts to reflect on it, describe it, or even pose the question of its existence, one has already entered a different domain: the domain of intelligibility.
+
+This domain is structured by distinction. To think is to differentiate; to represent is to separate; to mean anything at all is to distinguish what is from what is not, what counts from what does not, what answers a question from what fails to do so. Even the simplest proposition presupposes a contrast between truth and falsity, and even the most basic sign must be distinguishable from other signs to function as a sign at all. In this sense, distinction is not one conceptual tool among others—it is the condition under which any conceptual tool can operate.
+
+The same holds for questions. A question is not a neutral opening but a structured space of possible answers. To ask is already to distinguish between what would count as a valid response and what would not. Thus, the very possibility of questioning presupposes a field of distinctions that makes the question intelligible. Without such a field, there is no sense, and without sense, no thought or language.
+
+This leads to a crucial asymmetry. Undifferentiated experience may precede distinction in the order of being, but it cannot be brought into thought without distinction. Distinction is therefore not the ground of experience, but it is the ground of intelligibility. Any attempt to deny this must itself take the form of a thought or statement, and in doing so, it inevitably relies on the very distinctions it seeks to reject.
+
+For this reason, distinction is best understood not as a claim about what reality ultimately is, but as a condition for what can be thought, said, or asked. It marks the threshold at which experience becomes intelligible, and it defines the space within which all reasoning, questioning, and representation take place.
