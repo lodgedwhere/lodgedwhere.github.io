@@ -1,4 +1,4 @@
-# Prior to Distinction
+# Prior to Distinction: Self Portraits
 *This is what happens when the mind looks in the mirror*
 ----
 
