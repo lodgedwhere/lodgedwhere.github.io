@@ -11,6 +11,7 @@ Links appear below in chronological order, more recent at the top.
 
 ## Essays
 
+- [Collapse deferred](essays/collapse-deferred.md)
 - [Emergence of reflexivity](essays/emergence-of-reflexivity.md)
 - [A defense of distinction as the ground of mind](essays/defense-of-distinction.md)
 - [Irreducible paradox](essays/irreducible-paradox.md)
