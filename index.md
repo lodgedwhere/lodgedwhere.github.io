@@ -7,7 +7,7 @@ or, a rediscovery of what is already the case.
 
 *These writings are attempts to examine the structure of thought and the apparent division between self and world. They are not meant to assert conclusions, but to follow the implications of bare distinction and reentry as far as they go.*
 
-Links appear below in chronological order, more recent at the top.
+Links appear below in chronological order, more recent at the top. "Understanding" as a process is a perpetual work-in-progress.
 
 ## Essays
 
