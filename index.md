@@ -10,6 +10,7 @@ or, a rediscovery of what is already the case.
 Links appear below in chronological order, more recent at the top. "Understanding" as a process is a perpetual work-in-progress.
 
 ## Essays
+
 - [Mind as the Operation Between Collapse and Closure](essays/mind-collapse-closure.md)
 - [Collapse deferred](essays/collapse-deferred.md)
 - [Emergence of reflexivity](essays/emergence-of-reflexivity.md)
