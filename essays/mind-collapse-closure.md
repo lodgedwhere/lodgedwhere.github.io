@@ -28,3 +28,5 @@ Mind, in this sense, is not a stable entity, nor a process directed toward an en
 # Comments
 
 The structure that emerges from the void is self-referential in that distinction, sequence, and re-entry all depend on one another. Sequence is itself a distinction, and re-entry implies sequence, so the system forms a closed loop of mutual dependence. This loop does not collapse because it contains internal non-coincidence—differences of position within the same operation—which prevent the completion of self-canceling crossing. Thus, what appears is not a grounded structure, but a self-sustaining, non-resolving recursion.
+
+This model does not describe reality as such, but the logical structure required for anything to be described. Beginning from the necessity of distinction, it shows how persistence arises through deferred collapse, how objects emerge as stabilized distinctions, and how the “I” marks the limit where description becomes self-referential and cannot be objectified. It is therefore not a theory within description, but a description of the conditions that make description possible.
