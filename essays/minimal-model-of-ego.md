@@ -7,7 +7,7 @@ This model is simple enough that a 4-state Markov chain (yielding an arithmetic 
 Mutual information calculated empirically using an unbiased stochastic input matches the Markov value \~0.35: 
 ![result](../images/ego_minimal.png)
 
-The constraint on internal bitstream transitions tends to reproduce the input stochastic variable resulting in mutual information:
+Illustration of how the internal logical constraints on bitstream transitions tends to reproduce the input stochastic variable resulting in mutual information:
 ![timestep plot](../images/ego_minimal_timestep.png)
 
 ```
