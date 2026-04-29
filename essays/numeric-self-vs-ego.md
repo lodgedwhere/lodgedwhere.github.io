@@ -13,3 +13,15 @@ From this perspective, what might be called “experience” is not a property o
 The model therefore supports a minimal structural claim: any system that generates nontrivial internal structure from stochastic input must rely on constraints that are not fully representable within its current ontology. Identifying this unrepresentable source of constraint with “I” yields a stripped-down notion of self—one grounded not in representation or meaning, but in the unavoidable existence of a boundary between what is expressed and what makes expression possible.
 
 This boundary cannot be eliminated, only shifted. Each attempt to internalize the governing structure expands the ontology and produces a new level at which the same distinction reappears. In this sense, the self is not a fixed entity, but a structural feature of any recursively constrained process: the always-present, never-fully-representable condition of its own evolution. In Wittgenstein’s terms, it does not belong to the world described by the system, but stands as a limit of that world. (see Tractatus proposition 5.632)
+
+# Comment
+
+Comment: Boundary, Subject, and Distinction
+
+The structural role assigned here to the “self” as an unrepresentable source of constraint admits a natural comparison with two well-known philosophical frameworks.
+
+First, Ludwig Wittgenstein’s proposition 5.632 states that “the subject does not belong to the world: rather, it is a limit of the world.” In the present model, the ego—the evolving, correlated bitstream—belongs to the world in precisely this sense: it is representable within the ontology at a given level. The self, by contrast, corresponds to what Wittgenstein calls the subject. It does not appear as an object among states, but instead defines the boundary of what can be represented at all. The inability of any fixed ontology to fully internalize the governing rule mirrors the idea that the subject cannot be located within the world it conditions.
+
+Second, a related structural parallel appears in George Spencer-Brown’s Laws of Form, where the act of making a distinction creates a boundary between marked and unmarked states. In that framework, the boundary is prior to the elements it separates, and attempts to represent or re-enter the boundary within the same domain introduce recursion and require a shift in level. The present model exhibits an analogous behavior: the initial partition between ego and world, together with the constraints imposed on one side, generates a structured process, but the source of those constraints cannot be fully reabsorbed into the same representational frame. Each attempt to do so—such as passing to a Markov description—merely relocates the boundary at a higher level.
+
+Taken together, these analogies suggest that the “self” identified in this model is not an entity but a structural feature: the boundary condition that enables distinction while remaining irreducible to it. In Wittgenstein’s terms, it is the limit of the world; in Spencer-Brown’s, it is the distinction that cannot be fully contained within the domain it defines.
