@@ -290,9 +290,8 @@ $$
 
 ## Mutual information
 
-$$
-I(A;b) = \sum_{a,b} P(a,b)\,\log_2 \frac{P(a,b)}{P(a)P(b)} = 0.3499776 \text{ bits} \approx 0.35 \text{ bits}
-$$
+$I(A;b) = \sum_{a,b} P(a,b)\,\log_2 \frac{P(a,b)}{P(a)P(b)} = 0.3499776$ bits $\approx 0.35$ bits
+
 ---
 
 Thus the system has:
