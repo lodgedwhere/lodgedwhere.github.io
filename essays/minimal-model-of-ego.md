@@ -279,14 +279,12 @@ $$
 
 ## Joint distribution
 
-$$
-P(A,b) =
-\begin{array}{c|cc}
- & b=0 & b=1 \\ \hline
-A1 & \frac{5}{12} & \frac{1}{12} \\
-A2 & \frac{1}{12} & \frac{5}{12}
-\end{array}
-$$
+## Joint distribution
+
+|      | b = 0   | b = 1   |
+|------|---------|---------|
+| A1   | 5/12    | 1/12    |
+| A2   | 1/12    | 5/12    |
 
 ---
 
