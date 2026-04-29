@@ -174,4 +174,140 @@ end
 end
 ```
 
+# Markov model
 
+With a 2-bit memory the system is a 4-state Markov chain.
+
+## Setup (minimal 2-bit system)
+
+Let the internal state at time $t$ be the last two marks
+
+$$
+(x,y) = (b_{t-1}, b_t)
+$$
+
+and choose $A_t \in \{1,2\}$ uniformly at random each step.
+
+Define the update rules:
+
+**A1:**
+
+$$
+b_{t+1} = (\neg x) \wedge y
+$$
+
+**A2:**
+
+$$
+b_{t+1} = (\neg x) \vee y
+$$
+
+The next state is then
+
+$$
+(y, b_{t+1})
+$$
+
+---
+
+## Stationary distribution over internal states
+
+Label the four states as $00, 01, 10, 11$.  
+The induced transition matrix is:
+
+$$
+P =
+\begin{pmatrix}
+0.5 & 0.5 & 0   & 0 \\
+0   & 0   & 0   & 1 \\
+1   & 0   & 0   & 0 \\
+0   & 0   & 0.5 & 0.5
+\end{pmatrix}
+$$
+
+Solving $\pi = \pi P$ yields:
+
+$$
+\pi(00) = \frac{1}{3}, \quad
+\pi(01) = \frac{1}{6}, \quad
+\pi(10) = \frac{1}{6}, \quad
+\pi(11) = \frac{1}{3}.
+$$
+
+---
+
+## Marginal unbiased output
+
+Using the stationary distribution and equal rule choice:
+
+$$
+P(b_{t+1}=1) = 0.5
+$$
+
+So the output bitstream is unbiased.
+
+---
+
+## Conditional separation
+
+Define
+
+$$
+p_1 = P(b_{t+1}=1 \mid A1), \quad
+p_2 = P(b_{t+1}=1 \mid A2)
+$$
+
+Under A1, output is 1 only in state 01:
+
+$$
+p_1 = \frac{1}{6}
+$$
+
+Under A2, output is 0 only in state 10:
+
+$$
+p_2 = \frac{5}{6}
+$$
+
+Hence
+
+$$
+C = p_2 - p_1 = \frac{2}{3}
+$$
+
+---
+
+## Joint distribution
+
+$$
+P(A,b) =
+\begin{array}{c|cc}
+ & b=0 & b=1 \\ \hline
+A1 & \frac{5}{12} & \frac{1}{12} \\
+A2 & \frac{1}{12} & \frac{5}{12}
+\end{array}
+$$
+
+---
+
+## Mutual information
+
+$$
+I(A;b)
+=
+\sum_{a,b} P(a,b)
+\log_2 \frac{P(a,b)}{P(a)P(b)}
+=
+0.3499776 \text{ bits} \approx 0.35 \text{ bits}
+$$
+
+---
+
+Thus the system has:
+
+$$
+\text{mean}(b) = 0.5, \quad
+p_1 = \frac{1}{6}, \quad
+p_2 = \frac{5}{6}, \quad
+I(A;b) \approx 0.35 \text{ bits}
+$$
