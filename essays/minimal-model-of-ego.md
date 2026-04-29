@@ -290,7 +290,7 @@ $$
 
 ## Mutual information
 
-$MI(A;b) = \sum_{a,b} P(a,b)\,\log_2 \frac{P(a,b)}{P(a)P(b)} =
+$MI(A;b) = \sum_{a,b} P(a,b)\log_2 \frac{P(a,b)}{P(a)P(b)} =
 \frac{5}{6}\log_2\left(\frac{5}{3}\right)
 +
 \frac{1}{6}\log_2\left(\frac{1}{3}\right)
