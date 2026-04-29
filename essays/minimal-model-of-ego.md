@@ -12,7 +12,7 @@ Illustration of how the internal logical constraints on bitstream transitions te
 
 ![timestep plot](../images/ego_minimal_timestep.png)
 
-```
+```matlab
 function ego_minimal()
 
 close all
