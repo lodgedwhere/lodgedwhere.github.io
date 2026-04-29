@@ -14,162 +14,112 @@ Illustration of how the internal logical constraints on bitstream transitions te
 
 ```matlab
 function ego_minimal()
+  close all
 
-close all
+  % Octave-compatible seeding (optional)
+  rand("seed", sum(100*clock));
 
-% Octave-compatible seeding (optional)
+  % --- number of distinctions ---
+  Ns = round(logspace(1, 3, 51));
 
-rand("seed", sum(100*clock));
+  % --- throw away transient for analysis ---
+  burn_frac = 0.2;
 
-% --- number of distinctions ---
+  for k = 1:numel(Ns)
 
-Ns = round(logspace(1, 3, 51));
+    N = Ns(k);
+    burn = floor(burn_frac * N);
 
-% --- throw away transient for analysis ---
+    % --- random initial 2-bit state ---
+    b_prev = (rand < 0.5);
+    b_curr = (rand < 0.5);
 
-burn_frac = 0.2;
+    % --- initialize algorithm choice record ---
+    As = zeros(1, N);
+    % --- initialize "ego" bitstream record ---
+    bs = false(1, N);
 
-for k = 1:numel(Ns)
+    % --- iterate through N random distinctions ---
+    for t = 1:N
+      % --- choose algorithm randomly ---
+      if rand < 0.5
+        A = 1;
+        out = A1(b_prev, b_curr);
+      else
+        A = 2;
+        out = A2(b_prev, b_curr);
+      end
 
-N = Ns(k);
+      As(t) = A;
+      bs(t) = out;
 
-burn = floor(burn_frac * N);
+     % --- shift to retain last two "ego" bits for next distinction ---
+      b_prev = b_curr;
+      b_curr = out;
+    end
 
-% --- random initial 2-bit state ---
+    % --- remove transient ---
+    As2 = As(burn+1:end);
+    b2  = bs(burn+1:end);
 
-b_prev = (rand < 0.5);
+    % --- correlation analysis ---
+    p1 = mean(b2(As2==1));
+    p2 = mean(b2(As2==2));
+    C(k)  = p2 - p1;
+    I(k)  = mi_A_B(As2, b2);
 
-b_curr = (rand < 0.5);
+    mb2(k)=mean(b2);
+    fprintf("N=%d  mean(b)=%.4f  p1=%.4f  p2=%.4f  C=%.4f  I=%.4f bits\n", N, mb2(k), p1, p2, C(k), I(k));
 
-% --- initialize algorithm choice record ---
+  end
 
-As = zeros(1, N);
+  fprintf("\nAnalytic targets:\n");
+  fprintf("mean(b)=0.5  p1=%.6f  p2=%.6f  C=%.6f  I=0.34998 bits\n", 1/6, 5/6, 2/3);
 
-% --- initialize "ego" bitstream record ---
+  figure(1)
+  plot(Ns, mb2, Ns, abs(C), Ns, I)
+  legend('mean(b)','P(b|A=2)-P(b|A=1)','MI(b,A)')
+  set(gca,'fontsize',14,'ytick',[0.34998 0.5], 'xlabel', '# of distinctions', 'ylabel', 'bits/probability')
 
-bs = false(1, N);
-
-% --- iterate through N random distinctions ---
-
-for t = 1:N
-
-% --- choose algorithm randomly ---
-
-if rand < 0.5
-
-A = 1;
-
-out = A1(b_prev, b_curr);
-
-else
-
-A = 2;
-
-out = A2(b_prev, b_curr);
-
-end
-
-As(t) = A;
-
-bs(t) = out;
-
-% --- shift to retain last two "ego" bits for next distinction ---
-
-b_prev = b_curr;
-
-b_curr = out;
-
-end
-
-% --- remove transient ---
-
-As2 = As(burn+1:end);
-
-b2 = bs(burn+1:end);
-
-% --- correlation analysis ---
-
-p1 = mean(b2(As2==1));
-
-p2 = mean(b2(As2==2));
-
-C(k) = p2 - p1;
-
-I(k) = mi_A_B(As2, b2);
-
-mb2(k)=mean(b2);
-
-fprintf("N=%d mean(b)=%.4f p1=%.4f p2=%.4f C=%.4f I=%.4f bits\n", N, mb2(k), p1, p2, C(k), I(k));
+  figure(2)
+  ptail=30;
+  plot(1:(ptail+1), bs((end-ptail):end), 'k', 1:(ptail+1), As((end-ptail):end)-1, 'r--')
+  legend('b(t)','A(t)')
+  set(gca,'fontsize',14,'ylim',[-0.1 1.1], 'xlim', [0 ptail], 'xlabel', 'timestep', 'ylabel', 'bit value')
 
 end
 
-fprintf("\n Analytic targets:\n");
-
-fprintf("mean(b)=0.5 p1=%.6f p2=%.6f C=%.6f I=0.34998 bits\n", 1/6, 5/6, 2/3);
-
-figure(1)
-
-plot(Ns, mb2, Ns, C, Ns, I)
-
-legend('mean(b)','P(b|A=2)-P(b|A=1)','MI(b,A)')
-
-set(gca,'fontsize',14,'ytick',[0.34998 0.5], 'xlabel', '# of distinctions', 'ylabel', 'bits/probability')
-
-figure(2)
-
-ptail=30;
-
-plot(1:(ptail+1), bs((end-ptail):end), 'k', 1:(ptail+1), As((end-ptail):end)-1, 'r--')
-
-legend('b(t)','A(t)')
-
-set(gca,'fontsize',14,'ylim',[-0.1 1.1], 'xlim', [0 ptail], 'xlabel', 'timestep', 'ylabel', 'bit value')
-
-end
 
 function out = A1(x, y)
-
-out = (~x) & y;
-
+  out = (~x) & y;
 end
 
 function out = A2(x, y)
-
-out = (~x) | y;
-
+  out = (~x) | y;
 end
+
 
 function I = mi_A_B(A, b)
 
-C = zeros(2,2);
+  C = zeros(2,2);
 
-for t = 1:numel(A)
+  for t = 1:numel(A)
+    C(A(t), b(t)+1) = C(A(t), b(t)+1) + 1;
+  end
 
-C(A(t), b(t)+1) = C(A(t), b(t)+1) + 1;
+  Pab = C / sum(C(:));
+  Pa = sum(Pab,2);
+  Pb = sum(Pab,1);
 
-end
+  I = 0;
 
-Pab = C / sum(C(:));
-
-Pa = sum(Pab,2);
-
-Pb = sum(Pab,1);
-
-I = 0;
-
-for a=1:2
-
-for bb=1:2
-
-if Pab(a,bb) > 0
-
-I = I + Pab(a,bb) * log2(Pab(a,bb) / (Pa(a)*Pb(bb)));
-
-end
-
-end
-
-end
+  for a=1:2
+    for bb=1:2
+      if Pab(a,bb) > 0
+        I = I + Pab(a,bb) * log2(Pab(a,bb) / (Pa(a)*Pb(bb)));
+      end
+    end
+  end
 
 end
 ```
