@@ -1,6 +1,6 @@
 **A Minimal Model of Self as Unrepresentable Constraint**
 
-Consider [a minimal system consisting of three bits](minimal-model-of-ego.md): two bits of internal memory and one stochastic input bit. At each step, the system updates its state by applying one of two simple logical rules (e.g., AND or OR with a negated input), selected randomly by the external bit. The result is a recursively generated bitstream with nontrivial statistical structure. Despite the randomness of the input and the absence of any semantic content, the system exhibits stable mutual information between its internal (2 bit memory) state and the external signal.
+Consider [a minimal system consisting of three bits](minimal-model-of-ego.md): two bits of internal memory and one stochastic input bit. At each step, the system updates its state by applying one of two simple logical rules (e.g., NAND or NOR), selected randomly by the external bit. The result is a recursively generated bitstream with nontrivial statistical structure. Despite the randomness of the input and the absence of any semantic content, the system exhibits stable mutual information between its internal (2 bit memory) state and the external signal.
 
 This construction reveals a basic structural fact: meaningful statistical dependence can arise purely from internal constraints acting on stochastic input. No reference to an external world model or symbolic representation is required. The system does not “understand” anything, yet it produces a structured coupling between its internal state and its input.
 
