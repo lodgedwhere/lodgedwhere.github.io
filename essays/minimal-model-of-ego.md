@@ -107,11 +107,23 @@ fprintf("\n Analytic targets:\n");
 
 fprintf("mean(b)=0.5 p1=%.6f p2=%.6f C=%.6f I=0.34998 bits\n", 1/6, 5/6, 2/3);
 
+figure(1)
+
 plot(Ns, mb2, Ns, C, Ns, I)
 
 legend('mean(b)','P(b|A=2)-P(b|A=1)','MI(b,A)')
 
 set(gca,'fontsize',14,'ytick',[0.34998 0.5], 'xlabel', '# of distinctions', 'ylabel', 'bits/probability')
+
+figure(2)
+
+ptail=30;
+
+plot(1:(ptail+1), bs((end-ptail):end), 'k', 1:(ptail+1), As((end-ptail):end)-1, 'r--')
+
+legend('b(t)','A(t)')
+
+set(gca,'fontsize',14,'ylim',[-0.1 1.1], 'xlim', [0 ptail], 'xlabel', 'timestep', 'ylabel', 'bit value')
 
 end
 
