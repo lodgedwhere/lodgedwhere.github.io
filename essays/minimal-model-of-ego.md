@@ -4,8 +4,10 @@ The GNU-Octave/Matlab code below is a numeric simulation of a minimal (2 bit: pr
 
 This model is simple enough that a 4-state Markov chain (yielding an arithmetic expression to calculate MI\~0.34998...) can be found. The algorithms used, based on AND and OR, are natively realized in spiking neuron networks (with only \~5 neurons) due to integration and threshold selection by the external distinction bit, and provides a minimal mechanism for learning. NOR/NAND are also valid choices — you are invited to try variations.
 
+Mutual information calculated empirically using an unbiased stochastic input matches the Markov value \~0.35: 
 ![result](../images/ego_minimal.png)
 
+The constraint on internal bitstream transitions tends to reproduce the input stochastic variable resulting in mutual information:
 ![timestep plot](../images/ego_minimal_timestep.png)
 
 ```
