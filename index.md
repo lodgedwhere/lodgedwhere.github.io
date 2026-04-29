@@ -11,6 +11,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 
 ## Essays
 
+- [A Minimal Model of Self as Unrepresentable Constraint](essays/numeric-self-vs-ego.md)
 - [Mind as the Operation Between Collapse and Closure](essays/mind-collapse-closure.md)
 - [Collapse deferred](essays/collapse-deferred.md)
 - [Emergence of reflexivity](essays/emergence-of-reflexivity.md)
