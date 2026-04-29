@@ -6,6 +6,8 @@ This model is simple enough that a 4-state Markov chain (yielding an arithmetic 
 
 ![result](../images/ego_minimal.png)
 
+![timestep plot](../images/ego_minimal_timestep.png)
+
 ```
 function ego_minimal()
 
