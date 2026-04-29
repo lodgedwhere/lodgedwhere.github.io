@@ -1,4 +1,4 @@
-*A Minimal Model of Self as Unrepresentable Constraint*
+**A Minimal Model of Self as Unrepresentable Constraint**
 
 Consider a minimal system consisting of three bits: two bits of internal memory and one stochastic input bit. At each step, the system updates its state by applying one of two simple logical rules (e.g., AND or OR with a negated input), selected randomly by the external bit. The result is a recursively generated bitstream with nontrivial statistical structure. Despite the randomness of the input and the absence of any semantic content, the system exhibits stable mutual information between its internal (2 bit memory) state and the external signal.
 
