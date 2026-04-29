@@ -16,8 +16,6 @@ This boundary cannot be eliminated, only shifted. Each attempt to internalize th
 
 # Comment
 
-Comment: Boundary, Subject, and Distinction
-
 The structural role assigned here to the “self” as an unrepresentable source of constraint admits a natural comparison with two well-known philosophical frameworks.
 
 First, Ludwig Wittgenstein’s proposition 5.632 states that “the subject does not belong to the world: rather, it is a limit of the world.” In the present model, the ego—the evolving, correlated bitstream—belongs to the world in precisely this sense: it is representable within the ontology at a given level. The self, by contrast, corresponds to what Wittgenstein calls the subject. It does not appear as an object among states, but instead defines the boundary of what can be represented at all. The inability of any fixed ontology to fully internalize the governing rule mirrors the idea that the subject cannot be located within the world it conditions.
