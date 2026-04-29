@@ -176,7 +176,7 @@ end
 
 # Markov model
 
-With a 2-bit memory the system is a 4-state Markov chain.
+With a 2-bit memory the system is a 4-state Markov chain, which allows a fully analytic approach with a closed-form expression for mutual information:
 
 ## Setup (minimal 2-bit system)
 
@@ -290,7 +290,7 @@ $$
 
 ## Mutual information
 
-$I(A;b) = \sum_{a,b} P(a,b)\,\log_2 \frac{P(a,b)}{P(a)P(b)} =
+$MI(A;b) = \sum_{a,b} P(a,b)\,\log_2 \frac{P(a,b)}{P(a)P(b)} =
 \frac{5}{6}\log_2\left(\frac{5}{3}\right)
 +
 \frac{1}{6}\log_2\left(\frac{1}{3}\right)
@@ -304,5 +304,5 @@ $$
 \text{mean}(b) = 0.5, \quad
 p_1 = \frac{1}{6}, \quad
 p_2 = \frac{5}{6}, \quad
-I(A;b) \approx 0.35 \text{ bits}
+MI(A;b) \approx 0.35 \text{ bits}
 $$
