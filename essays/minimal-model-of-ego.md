@@ -175,7 +175,7 @@ P =
 \end{pmatrix}
 $$
 
-Solving $\pi = \pi P$ yields:
+Solving $\pi = \pi P$ yields normalized left-eigenvector:
 
 $$
 \pi(00) = \frac{1}{3}, \quad
