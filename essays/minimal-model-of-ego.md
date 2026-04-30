@@ -407,14 +407,14 @@ If we ignore ordering and exclude identical pairs, the number is
 $\binom{N_{\text{alg}}}{2}
 =\frac{N_{\text{alg}}(N_{\text{alg}}-1)}{2}$.
 
-But for large (N_{\text{alg}}), this is approximately
+But for large $N_{\text{alg}}$, this is approximately
 $N_{\text{pairs}}\sim 2^{2m 2^n}$.
 
 For the original 1-bit world, the algorithm has $n=2,\qquad m=1$.
 
 Therefore $N_{\text{alg}}=2^{1\cdot 2^2}=2^4=16$.
 
-The number of ordered non-identical pairs is $16(16-1)=240$.
+The number of ordered non-identical pairs is $16(16-1)/2=120$.
 
 For the 2-bit world with one timestep of memory, the algorithm has $n=4,\qquad m=2$.
 
