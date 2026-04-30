@@ -256,3 +256,106 @@ p_1 = \frac{1}{6}, \quad
 p_2 = \frac{5}{6}, \quad
 MI(A;b) \approx 0.35 \text{ bits}
 $$
+
+## Compression: "Minimal Sufficient Statistic" 
+
+Why does a 1-bit world require at least 2 bits to be observed? we can use compression to reduce it to one effective bit. 
+Consider the two-rule system
+
+A1(x,y) = (~x) & y
+
+A2(x,y) = (~x) | y
+
+where x = b(t-1) and y = b(t).
+
+The full observer state is therefore (x,y) = (b(t-1), b(t)). This is a 2-bit state observing a 1-bit world.
+
+The four possible states are:
+
+| state | A1 | A2 |
+|---|---:|---:|
+| 00 | 0 | 1 |
+| 01 | 1 | 1 |
+| 10 | 0 | 0 |
+| 11 | 0 | 1 |
+
+The algorithms differ only in states 00 and 11. Therefore the full state (x,y) contains more detail than is needed. The relevant distinction is only whether the two bits are equal.
+
+Define the compressed variable S = XNOR(x,y), or equivalently:
+
+S = 1 if x = y
+
+S = 0 if x ~= y
+
+Thus:
+
+| full state | compressed state |
+|---|---:|
+| 00 | 1 |
+| 01 | 0 |
+| 10 | 0 |
+| 11 | 1 |
+
+So the original 2-bit observer state has been compressed to a single bit: (x,y) -> S.
+
+The reduced transition matrix is:
+
+| current S | next S = 0 | next S = 1 |
+|---|---:|---:|
+| S = 0 | 0 | 1 |
+| S = 1 | 1/2 | 1/2 |
+
+The stationary distribution satisfies pi = pi P, with solution:
+
+P(S=0) = 1/3
+
+P(S=1) = 2/3
+
+Now compute the joint distribution P(A,b).
+
+When S=1, the algorithms differ:
+
+A1 -> b = 0
+
+A2 -> b = 1
+
+When S=0, the algorithms agree. Half of the S=0 weight contributes to (A1,b=1), and half contributes to (A2,b=0).
+
+Since P(A1)=P(A2)=1/2, the resulting joint distribution is:
+
+|  | b=0 | b=1 |
+|---|---:|---:|
+| A1 | 5/12 | 1/12 |
+| A2 | 1/12 | 5/12 |
+
+The marginals are:
+
+P(A1)=P(A2)=1/2
+
+P(b=0)=P(b=1)=1/2
+
+Therefore the mutual information is:
+
+I(A;b) = sum P(a,b) log2( P(a,b)/(P(a)P(b)) )
+
+Substituting the four terms gives:
+
+I(A;b)
+= (5/12) log2( (5/12)/(1/4) )
++ (1/12) log2( (1/12)/(1/4) )
++ (1/12) log2( (1/12)/(1/4) )
++ (5/12) log2( (5/12)/(1/4) )
+
+or:
+
+I(A;b) = (5/6) log2(5/3) + (1/6) log2(1/3)
+
+so:
+
+I(A;b) = 0.349977578 bits
+
+Thus the full 2-bit observer state is not the minimal observer. The minimal sufficient statistic is the one-bit variable S = XNOR(b(t-1), b(t)), which records only whether the world stayed the same or changed.
+
+The observer does not need to remember both bits. It only needs the distinction same vs different.
+
+This compressed one-bit statistic preserves the same mutual information between the algorithm choice and the observed output. The “ego” is therefore not the full memory of the world, but the minimal distinction that makes the world informative.
