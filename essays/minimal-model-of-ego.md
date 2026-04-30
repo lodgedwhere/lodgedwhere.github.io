@@ -1,6 +1,6 @@
 **A minimal numeric model of "ego": no information beyond mutual information**
 
-Before reading, please see the (philosophical motivation)[model-of-spontaneous-ego-formation.md] for this numerical model. 
+Before reading, please see the [philosophical motivation](model-of-spontaneous-ego-formation.md) for this numerical model. 
 
 The GNU-Octave/Matlab code below is a numeric simulation of a minimal (2 bit: present and past binary state) model of "ego" built from outcomes of marking stochastically-appearing past distinctions (randomly chosen between two logical algorithms, ie a 1-bit channel); see balanced mean(b)\~0.5 in figure. The main salient is that, despite the fact that 1. any information in ego bitstream history is endogenous (constraint-generated) and not referential/semantic, and 2. distinction choice is purely stochastic, **"mutual information" (MI)** between the two is evident both in naive correlation \[probability of ego state given algorithm appearance P(b, given A=2)-P(b, given A=1)\] *and* using the formal definition of MI. This clearly shows that "meaning" is never absolute and always context-specific -- there is no way to isolate a "you" separate from the whole containing all distinctions and their marks.
 
