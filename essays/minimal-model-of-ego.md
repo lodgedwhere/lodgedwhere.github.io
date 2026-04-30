@@ -392,3 +392,145 @@ From this perspective, the “ego” is not the full memory of past states, but 
 This interpretation generalizes. For higher-dimensional worlds, the lifted state space carries a representation of a larger symmetry group (e.g., products of Z₂ factors and permutations). The minimal observer corresponds to the direct sum of those irreducible components that couple to A. The number of effective observer bits is therefore the logarithm of the dimension of this signal-carrying subspace, rather than the dimension of the full lifted state.
 
 In this sense, observation itself can be understood as a projection onto irreducible structure: only those distinctions that transform nontrivially and survive the imposed symmetries persist as meaningful degrees of freedom.
+
+## Comment: Why the Search Space Explodes
+
+Suppose an algorithm takes n input bits and produces m output bits.
+
+There are
+
+[
+2^n
+]
+
+possible input states.
+
+For each input state, the algorithm may output any one of
+
+[
+2^m
+]
+
+possible output states.
+
+Therefore the number of distinct algorithms is
+
+[
+(2^m)^{2^n}.
+]
+
+Using exponent rules,
+
+[
+(2^m)^{2^n}
+=
+2^{m 2^n}.
+]
+
+So the number of algorithms scales as
+
+[
+N_{\text{alg}} = 2^{m 2^n}.
+]
+
+If we want to choose between two algorithms, the number of ordered pairs is
+
+[
+N_{\text{pairs}}
+=
+N_{\text{alg}}^2
+=
+\left(2^{m 2^n}\right)^2
+=
+2^{2m 2^n}.
+]
+
+If we ignore ordering and exclude identical pairs, the number is
+
+[
+\binom{N_{\text{alg}}}{2}
+=
+\frac{N_{\text{alg}}(N_{\text{alg}}-1)}{2}.
+]
+
+For large (N_{\text{alg}}), this is approximately
+
+[
+N_{\text{pairs}}
+\sim
+\frac{1}{2}N_{\text{alg}}^2
+\sim
+2^{2m 2^n}.
+]
+
+Thus, up to factors that are negligible on this scale,
+
+[
+N_{\text{pairs}}
+\sim
+2^{2m 2^n}.
+]
+
+For the original 1-bit world, the algorithm has
+
+[
+n=2,\qquad m=1.
+]
+
+Therefore
+
+[
+N_{\text{alg}}
+=
+2^{1\cdot 2^2}
+=
+2^4
+=
+16.
+]
+
+The number of ordered non-identical pairs is
+
+[
+16(16-1)=240.
+]
+
+For the 2-bit world with one timestep of memory, the algorithm has
+
+[
+n=4,\qquad m=2.
+]
+
+Therefore
+
+[
+N_{\text{alg}}
+=
+2^{2\cdot 2^4}
+=
+2^{32}.
+]
+
+The number of ordered pairs is
+
+[
+N_{\text{pairs}}
+=
+(2^{32})^2
+=
+2^{64}.
+]
+
+This is the combinatorial explosion. Adding one more world bit does not merely double the search space. It doubles the number of input states, and each input state must be assigned an (m)-bit output. This is why brute-force search rapidly becomes impossible without symmetry, compression, or relational constraints.
+
+---
+
+### Psychological Analogy
+
+This combinatorial explosion has an interesting parallel in psychology. If we interpret the algorithm set as a “coping mechanism” in the sense of The Denial of Death, then each algorithm corresponds to a particular way of organizing and responding to experience.
+
+Even in a very small “world” of limited sensory input, the number of possible internal organizations (algorithms) is enormous. Different choices of algorithm sets lead to different induced structures in the output—different patterns of correlation and therefore different “experienced realities,” even when the underlying inputs are the same.
+
+However, just as in the computational case, most possibilities are not viable. Requiring properties such as stability, internal consistency, and the appearance of randomness (e.g., unbiased marginals) dramatically restricts the space. What remains is a much smaller subset of structured, self-consistent possibilities—analogous to the relatively limited range of stable “personalities” or character structures observed in practice.
+
+In this sense, personality can be viewed as a selection from a vast combinatorial space of possible internal organizations, constrained by the requirement that the resulting system be both stable and interpretable. The combinatorial explosion highlights how rich this space is, even when the underlying world being processed is extremely simple.
