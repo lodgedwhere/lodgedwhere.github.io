@@ -420,8 +420,7 @@ For the 2-bit world with one timestep of memory, the algorithm has $n=4,\qquad m
 
 Therefore $N_{\text{alg}}=2^{2\cdot 2^4}=2^{32}$.
 
-The number of ordered pairs is $N_{\text{pairs}}=(2^{32})^2=2^{64}\approx 10^{19}$.
-]
+The number of ordered pairs is $N_{\text{pairs}}\approx (2^{32})^2=2^{64}\approx 10^{19}$.
 
 This is the combinatorial explosion. Adding one more world bit does not merely double the search space. It doubles the number of input states, and each input state must be assigned an ($m$)-bit output. This is why brute-force search rapidly becomes impossible without symmetry, compression, or relational constraints.
 
