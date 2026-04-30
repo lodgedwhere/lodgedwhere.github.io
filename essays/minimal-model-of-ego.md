@@ -1,6 +1,6 @@
 **A minimal numeric model of "ego": no information beyond mutual information**
 
-Before reading, please see the [philosophical motivation](model-of-spontaneous-ego-formation.md) for this numerical model. 
+Before reading, please see the [philosophical motivation](model-of-spontaneous-ego-formation.md) for this numerical model. After reading, please see [philosophical consequences](numeric-self-vs-ego.md).
 
 The GNU-Octave/Matlab code below is a numeric simulation of a minimal (2 bit: present and past binary state) model of "ego" built from outcomes of marking stochastically-appearing past distinctions (randomly chosen between two logical algorithms, ie a 1-bit channel); see balanced mean(b)\~0.5 in figure. The main salient is that, despite the fact that 1. any information in ego bitstream history is endogenous (constraint-generated) and not referential/semantic, and 2. distinction choice is purely stochastic, **"mutual information" (MI)** between the two is evident both in naive correlation \[probability of ego state given algorithm appearance P(b, given A=2)-P(b, given A=1)\] *and* using the formal definition of MI. This clearly shows that "meaning" is never absolute and always context-specific -- there is no way to isolate a "you" separate from the whole containing all distinctions and their marks.
 
@@ -395,133 +395,35 @@ In this sense, observation itself can be understood as a projection onto irreduc
 
 ## Comment: Why the Search Space Explodes
 
-Suppose an algorithm takes n input bits and produces m output bits.
+Suppose an algorithm takes $n$ input bits and produces $m$ output bits. There are $2^n$ possible input states. For each input state, the algorithm may output any one of $2^m$ possible output states.
 
-There are
-
-[
-2^n
-]
-
-possible input states.
-
-For each input state, the algorithm may output any one of
-
-[
-2^m
-]
-
-possible output states.
-
-Therefore the number of distinct algorithms is
-
-[
-(2^m)^{2^n}.
-]
-
-Using exponent rules,
-
-[
-(2^m)^{2^n}
-=
-2^{m 2^n}.
-]
-
-So the number of algorithms scales as
-
-[
-N_{\text{alg}} = 2^{m 2^n}.
-]
+Therefore the number of distinct algorithms is $N_{\text{alg}}=(2^m)^{2^n}=2^{m 2^n}$.
 
 If we want to choose between two algorithms, the number of ordered pairs is
 
-[
-N_{\text{pairs}}
-=
-N_{\text{alg}}^2
-=
-\left(2^{m 2^n}\right)^2
-=
-2^{2m 2^n}.
-]
+$N_{\text{pairs}}=N_{\text{alg}}^2=\left(2^{m 2^n}\right)^2=2^{2m 2^n}$.
 
 If we ignore ordering and exclude identical pairs, the number is
+$\binom{N_{\text{alg}}}{2}
+=\frac{N_{\text{alg}}(N_{\text{alg}}-1)}{2}$.
 
-[
-\binom{N_{\text{alg}}}{2}
-=
-\frac{N_{\text{alg}}(N_{\text{alg}}-1)}{2}.
+But for large (N_{\text{alg}}), this is approximately
+$N_{\text{pairs}}\sim 2^{2m 2^n}$.
+
+For the original 1-bit world, the algorithm has $n=2,\qquad m=1$.
+
+Therefore $N_{\text{alg}}=2^{1\cdot 2^2}=2^4=16$.
+
+The number of ordered non-identical pairs is $16(16-1)=240$.
+
+For the 2-bit world with one timestep of memory, the algorithm has $n=4,\qquad m=2$.
+
+Therefore $N_{\text{alg}}=2^{2\cdot 2^4}=2^{32}$.
+
+The number of ordered pairs is $N_{\text{pairs}}=(2^{32})^2=2^{64}\approx 10^{19}$.
 ]
 
-For large (N_{\text{alg}}), this is approximately
-
-[
-N_{\text{pairs}}
-\sim
-\frac{1}{2}N_{\text{alg}}^2
-\sim
-2^{2m 2^n}.
-]
-
-Thus, up to factors that are negligible on this scale,
-
-[
-N_{\text{pairs}}
-\sim
-2^{2m 2^n}.
-]
-
-For the original 1-bit world, the algorithm has
-
-[
-n=2,\qquad m=1.
-]
-
-Therefore
-
-[
-N_{\text{alg}}
-=
-2^{1\cdot 2^2}
-=
-2^4
-=
-16.
-]
-
-The number of ordered non-identical pairs is
-
-[
-16(16-1)=240.
-]
-
-For the 2-bit world with one timestep of memory, the algorithm has
-
-[
-n=4,\qquad m=2.
-]
-
-Therefore
-
-[
-N_{\text{alg}}
-=
-2^{2\cdot 2^4}
-=
-2^{32}.
-]
-
-The number of ordered pairs is
-
-[
-N_{\text{pairs}}
-=
-(2^{32})^2
-=
-2^{64}.
-]
-
-This is the combinatorial explosion. Adding one more world bit does not merely double the search space. It doubles the number of input states, and each input state must be assigned an (m)-bit output. This is why brute-force search rapidly becomes impossible without symmetry, compression, or relational constraints.
+This is the combinatorial explosion. Adding one more world bit does not merely double the search space. It doubles the number of input states, and each input state must be assigned an ($m$)-bit output. This is why brute-force search rapidly becomes impossible without symmetry, compression, or relational constraints.
 
 ---
 
