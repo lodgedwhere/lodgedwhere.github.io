@@ -231,8 +231,6 @@ $$
 
 ## Joint distribution
 
-## Joint distribution
-
 |      | b = 0   | b = 1   |
 |------|---------|---------|
 | A1   | 5/12    | 1/12    |
@@ -246,7 +244,7 @@ $MI(A;b) = \sum_{a,b} P(a,b)\log_2 \frac{P(a,b)}{P(a)P(b)} =
 \frac{5}{6}\log_2\left(\frac{5}{3}\right)
 +
 \frac{1}{6}\log_2\left(\frac{1}{3}\right)
-=0.3499776$ bits $\approx 0.35$ bits
+=0.3499776$ bits
 
 ---
 
