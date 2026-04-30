@@ -354,6 +354,6 @@ I(A;b) = 0.349977578 bits
 
 Thus the full 2-bit observer state is not the minimal observer. The minimal sufficient statistic is the one-bit variable S = XNOR(b(t-1), b(t)), which records only whether the world stayed the same or changed.
 
-The observer does not need to remember both bits. It only needs the distinction same vs different.
+The observer does not need to remember both bits. It only needs the distinction: *same vs different*.
 
 This compressed one-bit statistic preserves the same mutual information between the algorithm choice and the observed output. The “ego” is therefore not the full memory of the world, but the minimal distinction that makes the world informative.
