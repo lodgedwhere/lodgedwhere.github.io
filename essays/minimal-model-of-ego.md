@@ -307,9 +307,7 @@ The reduced transition matrix is:
 
 The stationary distribution satisfies pi = pi P, with solution:
 
-P(S=0) = 1/3
-
-P(S=1) = 2/3
+$\pi_1 = \tfrac{2}{3}, \quad \pi_0 = \tfrac{1}{3}.$
 
 Now compute the joint distribution P(A,b).
 
