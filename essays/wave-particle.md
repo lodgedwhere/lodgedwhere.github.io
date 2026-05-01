@@ -1,3 +1,6 @@
+---
+layout: default
+---
 **“Wave”, “Particle”, and the Limits of Description**
 
 A persistent tension runs through our most refined descriptions of reality: no single level of description can be both fully closed—self-contained and dynamically complete—and fully self-grounding—capable of producing definite, individuated facts from within itself. This is not a defect of particular theories, but a structural feature that reappears across domains, most clearly in physics and mathematics.
