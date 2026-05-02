@@ -9,7 +9,7 @@ or, a rediscovery of what is already the case.
 
 Links appear below in chronological order, more recent at the top. "Understanding" as a process is a perpetual work-in-progress.
 
-NEW: [Distinction, Reentry, and the Minimal Numeric Ego](pdfs/numerical-ego-model050226.pdf)
+NEW: [Distinction, Reentry, and the Minimal Numeric Ego](pdfs/numerical_ego_model050226.pdf)
 
 ## Essays
 
