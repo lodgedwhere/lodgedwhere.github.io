@@ -24,7 +24,7 @@ We now present a minimal formal model in which this question can be answered exa
 
 Let $A_t \in \{0,1\}$ denote the stochastic appearance of one of two kinds of distinction within a 1-bit channel. Let $b_t \in \{0,1\}$ denote the system state in which past markings are recorded, a severely restricted model only capable of remembering the past two marks.
 
-Instead of specifying an update rule, we impose a constraint on each consecutive triple:
+Instead of specifying an update rule to make the decision on future marks and encoding it locally in $b_t$, we impose a constraint on each consecutive triple:
 
 $$
 A_t = b_{t-1} \oplus b_t \oplus b_{t+1}.
@@ -42,25 +42,9 @@ Thus, the system evolves by selecting the unique value of $b_{t+1}$ that satisfi
 
 ## Perfect Encoding Without Representation
 
-The defining relation implies that the stochastic variable is exactly recoverable:
+The defining relation implies that the stochastic variable is exactly recoverable through Eq. (1). Thus, one bit of information is encoded per timestep, and the encoding is lossless. This is a structural identity, not an empirical result.
 
-$$
-A_t = b_{t-1} \oplus b_t \oplus b_{t+1}.
-$$
-
-Thus, one bit of information is encoded per timestep, and the encoding is lossless. This is a structural identity, not an empirical result.
-
-However, the output bit is statistically independent of the input when considered in isolation:
-
-$$
-I(A_t; b_{t+1}) = 0,
-$$
-
-while
-
-$$
-I(A_t; b_{t+1} \mid b_{t-1}, b_t) = 1.
-$$
+However, the output bit is statistically independent of the input when considered in isolation. In the stationary regime, $I(A_t; b_{t+1}) = 0$; at the same time, $I(A_t; b_{t+1} \mid b_{t-1}, b_t) = 1$.
 
 The distinction type is therefore perfectly encoded, yet entirely absent from marginal statistics.
 
@@ -70,10 +54,7 @@ The distinction type is therefore perfectly encoded, yet entirely absent from ma
 
 The information carried by $A_t$ is not located in any single state, but in the relation among three successive states. Meaning does not reside in $b_t$ or $b_{t+1}$, but in the structure linking them.
 
-This establishes a fundamental distinction between:
-
-- **local representation**, where information appears in individual states or transitions  
-- **relational encoding**, where information appears only in higher-order correlations  
+This establishes a fundamental distinction between *local representation*, where information appears in individual states or transitions, and *relational encoding*, where information appears only in higher-order correlations.
 
 In the present model, meaning is fully present yet locally invisible. The system encodes information without representing it in any local observable component.
 
@@ -81,7 +62,7 @@ In the present model, meaning is fully present yet locally invisible. The system
 
 ## Extension to Higher-Order Memory
 
-The model generalizes naturally. For memory depth $k$, one may impose:
+The model generalizes naturally. For memory depth $k$, one may impose
 
 $$
 A_t = \bigoplus_{i=0}^{k} b_{t-i}.
@@ -93,7 +74,7 @@ As $k$ increases, information shifts to $(k+1)$-point correlations. Lower-order 
 
 ## Multichannel Systems
 
-Let $\mathbf{b}_t \in \{0,1\}^n$ and $\mathbf{A}_t \in \{0,1\}^n$. A general linear constraint over $\mathrm{GF}(2)$ takes the form:
+Let $\mathbf{b}_t \in \{0,1\}^n$ and $\mathbf{A}_t \in \{0,1\}^n$. A general linear constraint over $\mathrm{GF}(2)$ takes the form
 
 $$
 \mathbf{A}_t =
@@ -112,48 +93,39 @@ Diagonal matrices yield independent channels. Non-diagonal terms introduce cross
 
 ## Relational Encoding Across Channels
 
-Consider a two-channel model with bitstreams $X$ and $Y$. Cross-channel coupling enables the transformation of temporal relations into simultaneous ones.
+Consider a two-channel model with bitstreams $X$ and $Y$. Cross-channel coupling enables the transformation of temporal relations into simultaneous ones. For example, imposing a cross-channel relation on
 
-For example, the temporal relation
+$$
+b_t^{(X)} \oplus b_t^{(Y)}
+$$
+
+rewrites the temporal relation
 
 $$
 b_t^{(Y)} \oplus b_{t-1}^{(Y)}
 $$
 
-may be rewritten as a cross-channel relation:
-
-$$
-b_t^{(X)} \oplus b_t^{(Y)},
-$$
-
-which implies:
+as
 
 $$
 b_t^{(X)} = b_{t-1}^{(Y)}.
 $$
 
-Past information in bitstream $Y$ is encoded onto the relation between $X$ and $Y$ in the present; temporal memory is thus converted into relational structure.
-
-However, this comes at the cost of sacrificing at least one independent component of $\mathbf{A}_t$.
+Past information in bitstream $Y$ is encoded onto the relation between $X$ and $Y$ in the present; temporal memory is thus converted into relational structure. The system encodes relations between distinctions rather than distinctions themselves by imposing a simple parity constraint. However, this cross-channel encoding sacrificing at least one independent input degree of freedom in $\mathbf{A}_t$.
 
 ---
 
 ## Capacity and Tradeoff
 
-A finite system cannot simultaneously preserve all incoming information and all past structure; increasing retention of past information necessarily reduces coupling to present input.
+A finite system cannot simultaneously preserve all incoming information and all past structure. For an $n$-bit system, increasing retention of past information necessarily reduces coupling to present input.
 
-Two regimes follow:
-
-- **full coupling**, with maximal transmission but no redundancy  
-- **relational encoding**, with reduced input coupling but increased internal structure  
-
-The system must allocate its limited representational capacity, and different allocations give rise to qualitatively distinct regimes.
+Two regimes follow. Either *full coupling*, with maximal transmission but no redundancy; or *relational encoding* with reduced input coupling but increased internal structure. The system must allocate its limited representational capacity, and different allocations realize qualitatively distinct regimes.
 
 ---
 
 ## "Grasping" as Capacity Reallocation
 
-To preserve information that is about to be lost, the system must devote present degrees of freedom to carrying forward traces of the past. These degrees of freedom are then unavailable for coupling to current input.
+The tradeoff admits a direct interpretation relevant to experience within the distinction/marking/reentry framework. To preserve information that is about to be lost, the system must devote present degrees of freedom to carrying forward traces of the past. These degrees of freedom are then unavailable for coupling to current input.
 
 Grasping may therefore be defined structurally as:
 
