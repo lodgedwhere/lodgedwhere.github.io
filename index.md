@@ -9,13 +9,15 @@ or, a rediscovery of what is already the case.
 
 Links appear below in chronological order, more recent at the top. "Understanding" as a process is a perpetual work-in-progress.
 
-NEW: [Distinction, Reentry, and the Minimal Numeric Ego](pdfs/numerical_ego_model050226.pdf)
+NEW: 
 
 ## Essays
 
+- [A Parity-Based Model of Relational Encoding and Grasping](essays/meaning-without-representation.md)
+- [Distinction, Reentry, and the Minimal Numeric Ego](pdfs/numerical_ego_model050226.pdf) (A synthesis of three posts (\*) below)
 - [Distinction, Persistence, and the Illusion of Thought](essays/the-game.md)
 - [“Wave”, “Particle”, and the Limits of Description](essays/wave-particle.md)
-- [A Minimal Model of Self as Unrepresentable Constraint](essays/numeric-self-vs-ego.md)
+- [A Minimal Model of Self as Unrepresentable Constraint](essays/numeric-self-vs-ego.md)\*
 - [Mind as the Operation Between Collapse and Closure](essays/mind-collapse-closure.md)
 - [Collapse deferred](essays/collapse-deferred.md)
 - [Emergence of reflexivity](essays/emergence-of-reflexivity.md)
@@ -51,9 +53,9 @@ NEW: [Distinction, Reentry, and the Minimal Numeric Ego](pdfs/numerical_ego_mode
 - [Wigner’s Mystery resolved by recognizing re-entry as the ground of appearance](essays/Wigners-mystery.md)
 - [Forgive to be forgiven](essays/forgive-to-be-forgiven.md)
 - [Did "you" "will" your own birth?](essays/did-you-will-your-own-birth.md)
-- [A minimal numeric model of "ego": no information beyond mutual information](essays/minimal-model-of-ego.md)
+- [A minimal numeric model of "ego": no information beyond mutual information](essays/minimal-model-of-ego.md)\*
 - [Pulling on your bootstraps to stop sinking](essays/pulling-on-your-bootstraps.md)
-- [A model of spontaneous ego formation from bare distinction, marking, and reentry](essays/model-of-spontaneous-ego-formation.md)
+- [A model of spontaneous ego formation from bare distinction, marking, and reentry](essays/model-of-spontaneous-ego-formation.md)\*
 - [Truth, distinction, marking, and turiya](essays/truth-distinction-marking-turiya.md)
 - [Reentry as groundless ground](essays/reentry-as-groundless-ground.md)
 - [The church of blind calculation](essays/church-of-blind-calculation.md)
