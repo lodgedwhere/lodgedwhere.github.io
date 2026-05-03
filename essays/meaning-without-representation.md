@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Meaning Without Representation:  
-A Parity-Based Model of Relational Encoding and Grasping
+# A Parity-Based Model of Relational Encoding and Grasping
 
 ## Introduction: Distinction, Marking, and Reentry
 
