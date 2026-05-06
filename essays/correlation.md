@@ -62,3 +62,19 @@ metastable solution that cannot be dissolved without temporarily threatening
 the continuity it was formed to preserve.
 
 And this may explain why thought can never completely resolve itself through additional thought. The system generating representation cannot fully represent the correlating activity that gives rise to representation in the first place. The “subject” is not an object within the ontology, but the active relational field organizing distinctions themselves. The eye cannot fully see itself because the totality of the correlating process cannot be stabilized as one more relation within the manifold it generates.
+
+\section{Emptiness and Relational Existence}
+
+The present framework also suggests a structural interpretation of the classical notion of emptiness (\emph{sunyata}). In this context, emptiness does not mean nonexistence or nihilistic absence. Rather, it means that no stabilized structure possesses fully independent or self-grounding existence.
+
+Within a correlated informational system, a ``thing'' exists only as a temporarily stabilized relational configuration distributed across many interacting channels. Its apparent identity is maintained through a network of mutually reinforcing constraints. Remove the supporting relational structure and the object dissolves. In this sense, all forms are intrinsically relational and contingent. Their existence depends upon ongoing participation in a wider manifold of correlations.
+
+This applies equally to concepts, thoughts, and the egoic self-model. The ego is not a hidden observer standing outside the system, but a metastable excitation within the correlation manifold itself: a persistent self-maintaining knot of mutually reinforcing relational constraints. It appears substantial because the structure continuously stabilizes and reasserts itself, but it possesses no isolated essence independent of the processes sustaining it.
+
+Importantly, emptiness here does not imply unreality. A soliton in a physical medium is ``empty'' of independent substance, yet remains dynamically real as a stable relational pattern. Likewise, concepts, selves, meanings, and suffering may all exist conventionally as stabilized informational structures while remaining empty of intrinsic independent being.
+
+This perspective also clarifies why grasping produces suffering. If the system attempts to stabilize any relational structure as absolutely self-grounding, it imposes closure upon something whose existence is inherently conditional and distributed. The resulting tension cannot be permanently resolved because the structure depends continuously upon processes lying outside the closure it attempts to establish. Grasping is therefore an attempt to impose permanence and independence upon intrinsically relational organization.
+
+In this sense, the classical statement that ``form is emptiness and emptiness is form'' acquires a natural informational interpretation. Form corresponds to stabilized relational structure; emptiness corresponds to the absence of isolated self-grounding independent of relations. The two are not opposites because stabilized form exists only relationally, while emptiness is precisely this absence of intrinsic separateness.
+
+The present framework does not attempt to derive religious doctrine from physics or information theory. Nevertheless, it suggests that several classical nondual insights may reflect genuine structural features of self-referential information-processing systems constrained by finite noisy embodiment.
