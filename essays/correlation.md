@@ -51,4 +51,14 @@ The resulting system resembles a frustrated physical network in which not all co
 
 In this picture, suffering is not merely the presence of noise or error. Nor is it simply attachment in a moral or psychological sense. It is the energetic signature of irreducible frustration within coupled constraint systems — a Jacob’s ladder tied at both ends, a persistent soliton of self-reference suspended between grounding and closure.
 
+Such frustrated structures need not be globally adaptive in order to persist.
+A relational configuration may stabilize itself because it preserves continuity,
+reduces local uncertainty, or prevents immediate collapse, even while increasing
+long-term incompatibility with other constraints. Suffering may therefore arise
+through hysteresis: correlation structures formed under one set of conditions
+continue to organize the system after those conditions have changed. The egoic
+structure is then locally self-maintaining but globally frustrating, a
+metastable solution that cannot be dissolved without temporarily threatening
+the continuity it was formed to preserve.
+
 And this may explain why thought can never completely resolve itself through additional thought. The system generating representation cannot fully represent the correlating activity that gives rise to representation in the first place. The “subject” is not an object within the ontology, but the active relational field organizing distinctions themselves. The eye cannot fully see itself because the totality of the correlating process cannot be stabilized as one more relation within the manifold it generates.
