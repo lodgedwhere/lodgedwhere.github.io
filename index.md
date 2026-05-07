@@ -13,7 +13,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 
 <!-- - [A Parity-Based Model of Relational Encoding and Grasping](essays/meaning-without-representation.md) (To form persistent statements “about” the world, the system must sacrifice part of its direct coupling to it, effectively veiling a portion of the incoming information.)
 -->
-- [Mind, as correlation code](essays/correlation.md)
+- [Mind, as correlation code](essays/correlation.md) (A purely materialist view, taken to its limit, arrives at *emptiness of form*)
 - [Distinction, Reentry, and the Minimal Numeric Ego](pdfs/numerical_ego_model050526.pdf) (A synthesis of three posts (\*) below)
 - [Distinction, Persistence, and the Illusion of Thought](essays/the-game.md)
 - [“Wave”, “Particle”, and the Limits of Description](essays/wave-particle.md)
