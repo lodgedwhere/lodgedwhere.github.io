@@ -1,35 +1,23 @@
+---
+layout: default
+---
 **Mind, as correlation code** 
 
 The central observation is simple. All organisms process information gathered from their environment, but biological matter is noisy. Memory stored in wet substrates degrades. For simple organisms this is not a major problem because the processing depth is shallow: information need survive only briefly before being transformed into action. A bacterium or amoeba can operate through short local algorithms whose internal state need not persist for long durations.
 
-As organisms evolved increasingly complex behavior, however, information had to survive repeated transformations across longer timescales. Independent storage becomes exponentially fragile under such conditions. If each channel degrades with error rate \epsilon, then after a memory duration T_{\rm mem}, recoverable information decays roughly as
-
-F_{\rm par}=(1-\epsilon)^{T_{\rm mem}}.
-
-Beyond modest memory depths, isolated storage rapidly collapses.
+As organisms evolved increasingly complex behavior, however, information had to survive repeated transformations across longer timescales. Independent storage becomes exponentially fragile under such conditions. If each channel degrades with error rate \epsilon, then after a memory duration $T$, recoverable information decays roughly as $(1-\epsilon)^T$. Beyond modest memory depths, isolated storage rapidly collapses.
 
 The natural solution is distributed relational encoding: instead of storing information independently, the system sacrifices part of its raw capacity in order to impose correlations across many channels. Sparse correlated codes provide a mathematically tractable model of this process. Such systems exhibit finite decoding thresholds: below a critical effective error rate, relational structure successfully reconstructs damaged information; above threshold, recovery collapses abruptly.
 
-Importantly, these correlated phases are not free. They require partial decoupling from the environmental stream itself. Degrees of freedom that could otherwise encode fresh sensory distinctions are consumed maintaining internal consistency constraints. This creates a structural tradeoff between grounding and closure:
-
-* too little correlation and memory dissolves into noise;
-* too much correlation and the system loses adaptive contact with the world.
+Importantly, these correlated phases are not free. They require partial decoupling from the environmental stream itself. Degrees of freedom that could otherwise encode fresh sensory distinctions are consumed maintaining internal consistency constraints. This creates a structural tradeoff between grounding and closure: too little correlation and memory dissolves into noise; too much correlation and the system loses adaptive contact with the world.
 
 The most interesting regime lies near the onset of correlated order itself. Numerical phase-diagram simulations suggest that broad relational structures become favorable precisely near the threshold where independent memory begins to fail. Near this critical region, the largest viable correlation structures appear while remaining thermodynamically supportable.
 
-This produces the framework’s most important consequence.
+This produces the framework’s most important consequence: A correlated memory phase does not merely preserve information. It also possesses a large degeneracy of equivalent relational codes. Many distinct correlation structures can encode and stabilize the same underlying sensory distinctions. The choice among these equivalent structures therefore carries information $\log_2 \Omega$, independent of the sensory content itself, where $\Omega$ is the number of equivalent viable relational codes.
 
-A correlated memory phase does not merely preserve information. It also possesses a large degeneracy of equivalent relational codes. Many distinct correlation structures can encode and stabilize the same underlying sensory distinctions. The choice among these equivalent structures therefore carries information independent of the sensory content itself:
+This opens what may legitimately be called an orthogonal structural information space. “Orthogonal” here means informationally independent: the represented sensory distinctions may remain unchanged while the relational architecture preserving them varies. This second informational space is not directly about the world. It is information about the organization of representation itself.
 
-I_{\rm struct}=\log_2 \Omega,
-
-where \Omega is the number of equivalent viable relational codes.
-
-This opens what may legitimately be called an orthogonal structural information space. “Orthogonal” here means informationally independent: the represented sensory distinctions may remain unchanged while the relational architecture preserving them varies.
-
-This second informational space is not directly about the world. It is information about the organization of representation itself.
-
-Speculatively, this is where concepts emerge.
+## Structure of "mind" 
 
 A “thing” is no longer identified with a particular sensory pattern, but with a persistent relational structure spanning many channels. Thoughts become active correlation codes; thinking becomes transformations and interactions among coupled constraints. Because different concepts share channels, their associated correlation structures become entangled. Satisfying one set of constraints modifies the admissibility of others. Thought therefore appears as the dynamical evolution of coupled relational structures through the space of viable code configurations.
 
@@ -37,37 +25,25 @@ The framework predicts that such cognition-like organization exists only within 
 
 Interestingly, several empirical observations are qualitatively consistent with this picture. Insects and other ectothermic organisms often exhibit relatively sharp thermal thresholds at which complex coordinated behaviors such as sustained flight and navigation abruptly fail while simpler local activity persists. Such observations are compatible with the idea that higher-order relational processing collapses before basic local response mechanisms when the system moves away from the regime where correlated organization remains favorable.
 
-The framework does not claim that brains literally implement LDPC codes or engineered Tanner graphs. Sparse parity networks are used only as analytically tractable examples demonstrating that distributed relational constraints can preserve recoverable information more effectively than isolated memory channels under appropriate noise conditions. Nor does the framework attempt to solve the hard problem of consciousness. It does not explain why informational structure should feel like anything from within.
+## Contact with Psychology
 
-But it does suggest a possible origin for many structural features associated with mind.
+The framework does not claim that brains literally implement LDPC codes or engineered Tanner graphs. Sparse parity networks are used only as analytically tractable examples demonstrating that distributed relational constraints can preserve recoverable information more effectively than isolated memory channels under appropriate noise conditions. Nor does the framework attempt to solve the hard problem of consciousness. It does not explain why informational structure should feel like anything from within. But it does suggest a possible origin for many structural features associated with mind.
 
-Perhaps most importantly, it naturally introduces the possibility of suffering.
-
-The organism’s sensory and embodied systems already constitute a highly evolved and internally consistent relational structure prior to the emergence of higher-order conceptual processing. The mind therefore does not impose correlations upon a blank substrate. It imposes additional self-referential constraints upon an already coherent network shaped by development, embodiment, and evolution.
-
-These layers cannot generally be made perfectly compatible.
+Perhaps most importantly, it naturally introduces the possibility of suffering. The organism’s sensory and embodied systems already constitute a highly evolved and internally consistent relational structure prior to the emergence of higher-order conceptual processing. The mind therefore does not impose correlations upon a blank substrate. It imposes additional self-referential constraints upon an already coherent network shaped by development, embodiment, and evolution. These layers cannot generally be made perfectly compatible.
 
 The resulting system resembles a frustrated physical network in which not all constraints can be simultaneously satisfied. Higher-order conceptual structures become entangled with underlying embodied and perceptual organizations that cannot be freely rewritten. The ego then appears not as a substance or homunculus, but as a metastable excitation within the correlation manifold itself: a persistent self-maintaining tension between incompatible relational layers.
 
 In this picture, suffering is not merely the presence of noise or error. Nor is it simply attachment in a moral or psychological sense. It is the energetic signature of irreducible frustration within coupled constraint systems — a Jacob’s ladder tied at both ends, a persistent soliton of self-reference suspended between grounding and closure.
 
-Such frustrated structures need not be globally adaptive in order to persist.
-A relational configuration may stabilize itself because it preserves continuity,
-reduces local uncertainty, or prevents immediate collapse, even while increasing
-long-term incompatibility with other constraints. Suffering may therefore arise
-through hysteresis: correlation structures formed under one set of conditions
-continue to organize the system after those conditions have changed. The egoic
-structure is then locally self-maintaining but globally frustrating, a
-metastable solution that cannot be dissolved without temporarily threatening
-the continuity it was formed to preserve.
+Such frustrated structures need not be globally adaptive in order to persist. A relational configuration may stabilize itself because it preserves continuity, reduces local uncertainty, or prevents immediate collapse, even while increasing long-term incompatibility with other constraints. Suffering may therefore arise through hysteresis: correlation structures formed under one set of conditions continue to organize the system after those conditions have changed. The egoic structure is then locally self-maintaining but globally frustrating, a metastable solution that cannot be dissolved without temporarily threatening the continuity it was formed to preserve.
 
 And this may explain why thought can never completely resolve itself through additional thought. The system generating representation cannot fully represent the correlating activity that gives rise to representation in the first place. The “subject” is not an object within the ontology, but the active relational field organizing distinctions themselves. The eye cannot fully see itself because the totality of the correlating process cannot be stabilized as one more relation within the manifold it generates.
 
-\section{Emptiness and Relational Existence}
+## "Emptiness"
 
-The present framework also suggests a structural interpretation of the classical notion of emptiness (\emph{sunyata}). In this context, emptiness does not mean nonexistence or nihilistic absence. Rather, it means that no stabilized structure possesses fully independent or self-grounding existence.
+The present framework also suggests a structural interpretation of the classical notion of emptiness, *sunyata*. In this context, emptiness does not mean nonexistence or nihilistic absence. Rather, it means that no stabilized structure possesses fully independent or self-grounding existence.
 
-Within a correlated informational system, a ``thing'' exists only as a temporarily stabilized relational configuration distributed across many interacting channels. Its apparent identity is maintained through a network of mutually reinforcing constraints. Remove the supporting relational structure and the object dissolves. In this sense, all forms are intrinsically relational and contingent. Their existence depends upon ongoing participation in a wider manifold of correlations.
+Within a correlated informational system, a "thing" exists only as a temporarily stabilized relational configuration distributed across many interacting channels. Its apparent identity is maintained through a network of mutually reinforcing constraints. Remove the supporting relational structure and the object dissolves. In this sense, all forms are intrinsically relational and contingent. Their existence depends upon ongoing participation in a wider manifold of correlations.
 
 This applies equally to concepts, thoughts, and the egoic self-model. The ego is not a hidden observer standing outside the system, but a metastable excitation within the correlation manifold itself: a persistent self-maintaining knot of mutually reinforcing relational constraints. It appears substantial because the structure continuously stabilizes and reasserts itself, but it possesses no isolated essence independent of the processes sustaining it.
 
@@ -77,4 +53,26 @@ This perspective also clarifies why grasping produces suffering. If the system a
 
 In this sense, the classical statement that ``form is emptiness and emptiness is form'' acquires a natural informational interpretation. Form corresponds to stabilized relational structure; emptiness corresponds to the absence of isolated self-grounding independent of relations. The two are not opposites because stabilized form exists only relationally, while emptiness is precisely this absence of intrinsic separateness.
 
-The present framework does not attempt to derive religious doctrine from physics or information theory. Nevertheless, it suggests that several classical nondual insights may reflect genuine structural features of self-referential information-processing systems constrained by finite noisy embodiment.
+*The present framework does not attempt to derive religious doctrine from physics or information theory. Nevertheless, it suggests that several classical nondual insights may reflect genuine structural features of self-referential information-processing systems constrained by finite noisy embodiment.*
+
+## Supporting evidence
+
+Recent empirical work on functional brain networks is also consistent with the present framework. Saberi et al. (https://doi.org/10.1162/netn_a_00268) analyzed large-scale signed functional connectivity networks and found that the brain naturally exhibits persistent “frustrated” relational structures that prevent the network from settling into globally minimized-energy states while simultaneously increasing flexibility and reorganization capacity. In particular, frustrations were found to arise predominantly between distinct canonical brain networks rather than within locally coherent subnetworks, suggesting that large-scale cognition may indeed involve interactions among partially incompatible relational organizations rather than isolated local representations. The authors further observed that such frustrations are structured and nonrandom, with subcortical regions playing a disproportionately important role in their formation. Although the study does not invoke information-theoretic coding or error-correction mechanisms directly, its results strongly support the broader claim that biological cognition operates in a metastable regime sustained by higher-order relational tensions. In this sense, the observed frustrated network organization provides empirical support for the idea that thought and adaptive cognition emerge not from complete closure or perfect equilibrium, but from persistent partially unresolved constraint structures distributed across interacting neural systems.
+
+Several empirical observations from hypothermia, cold exposure, and hibernation are qualitatively consistent with the present framework’s prediction that higher-order relational processing occupies only a bounded intermediate regime between excessive disorder and excessive local stability. In particular, these studies suggest that large-scale integrative neural dynamics degrade disproportionately under cooling before total local neural responsiveness disappears.
+
+Kang et al examined electroencephalographic (EEG) dynamics in rats undergoing therapeutic hypothermia at 32-34C following cardiac arrest and found substantial reductions in multiscale entropy during cooling.[X. Kang, P. Jia, and J.-Y. Geocadin, “Multiscale entropy analysis of EEG for assessment of post-cardiac arrest neurological recovery under hypothermia in rats,” IEEE Trans Biomed Eng 58, 3394-3403 (2011)] Because multiscale entropy measures the richness of dynamical structure across timescales, the observed collapse of complexity under cooling is consistent with the present framework’s claim that broad correlated neural organization becomes increasingly difficult to sustain outside a narrow operating regime.
+
+Related hypothermia studies further report increased burst suppression, prolonged cortical response latency, and suppression of coordinated cortical and thalamic dynamics during cooling. [A. Schmitt et al., “Hypothermia-induced changes in thalamocortical activity in rats”, J Neurophysiology 111, 173-184 (2014)] These findings are particularly relevant because they suggest that large-scale synchronized activity degrades before complete local neuronal inactivity occurs, matching the model’s prediction that globally coordinated relational processing is more fragile than simpler local responsiveness.
+
+Human cold-exposure studies show a similar hierarchy. Muller et al. found that mild hypothermia and cold exposure preferentially impair working memory, executive function, and other cognitively integrative tasks while leaving simpler reaction-time and local-response behaviors relatively preserved. [M. D. Muller, J. J. Gunstad, and H. B. Alosco, “Cognitive effects of cold exposure: a review,” Neurosci Biobehav Rev 36, 729-745 (2012)].  A broader systematic review by Falla et al. similarly concluded that executive function and complex processing speed are disproportionately vulnerable to cooling. [M. Falla et al, ”Cold exposure and cognitive performance: a systematic review,” Int J Environ Res Pub Health 18, 12707 (2021)] These observations are consistent with the proposal that higher-order cognition depends upon maintaining distributed relational structures whose stability degrades before basic local processing fails.
+
+Perhaps most strikingly, hibernation and torpor provide natural examples of reversible suppression of large-scale neural organization. Arendt et al review evidence that during torpor, neuronal activity is dramatically reduced while dendritic branching, synaptic densities, and spine structures retract and later regenerate upon arousal. [T. Arendt and M. Bullmann, “Neuronal plasticity in hibernation and the proposed role of the microtubule-associated protein tau as a mediator of plastic processes in the central nervous system,” J Neural Transm 120, 1365-1370 (2013)].  These reversible structural reductions suggest that the maintenance of complex relational organization itself is energetically suspended during deep low-temperature states and later reconstructed as higher-order cognitive function returns.
+
+None of these studies demonstrate that biological systems literally implement LDPC-style error-correcting codes or undergo thermodynamic phase transitions in the strict statistical-mechanical sense proposed here. Nevertheless, taken together they provide substantial qualitative support for the framework’s central prediction: large-scale integrative cognition appears to depend upon maintaining distributed correlated neural organization within a bounded operating regime, and this organization degrades disproportionately under sufficiently strong cooling before total local neural function disappears.
+
+## Interpreting psychedelic therapy
+
+Within the present framework, ego-dissolution states may be interpreted as temporary destabilizations of rigid higher-order correlation structures. The ordinary self-model is not merely a representation, but an actively maintained manifold of interacting relational constraints accumulated through embodiment, memory, socialization, and symbolic abstraction. Over time, these structures may become increasingly frustrated, with partially incompatible constraints held in metastable equilibrium. Psychedelic or ego-dissolution states may therefore transiently weaken the persistence of high-level closures, allowing the system to escape locally stable but globally frustrating configurations. Subsequent reintegration may then produce a less constrained and more self-consistent relational organization. In this picture, therapeutic benefit does not arise from access to metaphysical truths, but from temporary relaxation and reorganization of otherwise rigid correlation topologies.
+
+Recent neuroimaging studies of psychedelic states are also qualitatively consistent with the present framework. A placebo-controlled longitudinal study of psilocybin administration in psychedelic-naive participants reported both acute and persistent changes in functional and anatomical brain organization following a single high dose of psilocybin. [R. L. Carhart-Harris et al., “Human brain changes after first psilocybin use”, Nature Comm 17, 3977 (2026)] The observed psychedelic state was associated with increased neural dynamical diversity and altered large-scale functional organization, while some changes persisted for weeks after the acute pharmacological effects had subsided. Within the present framework, such findings are consistent with the idea that ordinary cognition involves metastable higher-order relational structures whose rigidity can be transiently relaxed, allowing exploration and subsequent reorganization of alternative correlation topologies. Therapeutic benefit may therefore arise not from access to metaphysical truths, but from temporary destabilization of locally self-maintaining but globally frustrated relational manifolds.
