@@ -12,11 +12,11 @@ this is what things mean.*
 
 There is still seeing. Still sound. Still sensation. But the interpretive overlay is gone, and with its absence so too the felt solidity of the world one thought oneself to inhabit.
 
-Yet memory cannot ground itself either. Every meaning refers backward to prior meanings in an endless chain of inherited distinctions. At some point there must have been a beginning to memory, a first stabilization of significance that itself possessed no prior significance to justify it, no? How can something recursively sustained not start with intrinsic suchness?
+Yet memory cannot ground itself either. Every meaning refers backward to prior meanings in an endless chain of inherited distinctions. At some point there must have been a beginning to memory, a first stabilization of significance that itself possessed no prior significance to justify it, no? How can something recursively sustained not start with an intrinsic ... something? But before there was the idea of "you", where did it come from? Where did this random seed originate?
 
 It is like a chain sinnet with no foundational loop: each link held in place by the others, the whole structure suspended without ultimate support.
 
-![chain sinnet](images/chain-sinnet.webp)
+![chain sinnet](images/chainsinnet.jpg)
 
 This is the deep paradox of selfhood and world. Distinctions become re-entered and stabilized until they seem objective and necessary, yet their origin cannot be located within the system they generate. The mind constructs continuity through repeated acts of remembrance and identification, then mistakes this continuity for an independently existing structure.
 
