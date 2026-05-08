@@ -2,9 +2,7 @@
 
 We imagine ourselves as carrying meaning forward through time, gathering it from experience like a traveler collecting provisions for a journey. We believe the world has already been interpreted, that significance inheres in things themselves, and that memory merely stores what was discovered there. But direct inspection reveals something stranger.
 
-Experience never once occurred outside this present moment.
-
-The past is not encountered directly; it appears only as memory arising now. And meaning itself depends upon this continual reappearance. The sense that something matters, that something is about something else, relies upon retention — the carrying forward of distinctions and associations from one moment into another. Without this recursive movement of memory, the world ceases to present itself as meaningful in the familiar sense.
+Firstly, experience never once occurred outside this present moment. The past is not encountered directly; it appears only as memory arising now. And meaning itself depends upon this continual reappearance. The sense that something matters, that something is about something else, relies upon retention — the carrying forward of distinctions and associations from one moment into another. Without this recursive movement of memory, the world ceases to present itself as meaningful in the familiar sense.
 
 If the grip loosens even briefly, this becomes visible. One sees that the bare moment contains no intrinsic declaration:
 this is important,
