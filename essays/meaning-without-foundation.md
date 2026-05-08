@@ -14,7 +14,7 @@ There is still seeing. Still sound. Still sensation. But the interpretive overla
 
 Yet memory cannot ground itself either. Every meaning refers backward to prior meanings in an endless chain of inherited distinctions. At some point there must have been a beginning to memory, a first stabilization of significance that itself possessed no prior significance to justify it, no? How can something recursively sustained not start with an intrinsic ... something? But before there was the idea of "you", where did it come from? Where did this random seed originate?
 
-It is like a chain sinnet, ie "daisy chain", a recursive knot with no foundational loop: each link held in place by the others, the whole structure suspended without ultimate support.
+It is like an untied chain sinnet, ie "daisy chain", a recursive knot with no foundational loop: each link held in place by the others, the whole structure suspended without ultimate support.
 
 <img src="../images/chainsinnet.jpg" alt="chain sinnet" width="100" height="400">
 
