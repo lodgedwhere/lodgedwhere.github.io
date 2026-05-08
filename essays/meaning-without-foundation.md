@@ -1,4 +1,4 @@
-**Meaning Without Foundation**
+**The daisy chain: meaning without foundation**
 
 We imagine ourselves as carrying meaning forward through time, gathering it from experience like a traveler collecting provisions for a journey. We believe the world has already been interpreted, that significance inheres in things themselves, and that memory merely stores what was discovered there. But direct inspection reveals something stranger.
 
