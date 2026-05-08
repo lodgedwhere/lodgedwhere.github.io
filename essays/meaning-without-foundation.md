@@ -24,4 +24,4 @@ Perhaps it does not.
 
 Perhaps meaning is not a thing but an activity — not an eternal substance but a living process of recursive relation. Music does not exist inside isolated notes. It exists in movement, resonance, recurrence, and release. Likewise, meaning may arise only within the dynamic unfolding of memory and distinction, without requiring any final ground beneath it.
 
-And when memory falls silent for a moment, what remains is not necessarily emptiness. The bare moment may contain no conceptual meaning at all, yet it is also not lacking anything.
+And when memory falls silent for a moment, what remains is not nothing. The bare moment may be empty of conceptual meaning entirely, yet it is also not lacking anything.
