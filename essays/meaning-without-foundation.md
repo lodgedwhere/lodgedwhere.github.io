@@ -2,7 +2,7 @@
 
 We imagine ourselves as carrying meaning forward through time, gathering it from experience like a traveler collecting provisions for a journey. We believe the world has already been interpreted, that significance inheres in things themselves, and that memory merely stores what was discovered there. But direct inspection reveals something stranger.
 
-Firstly, experience never once occurred outside this present moment. The past is not encountered directly; it appears only as memory arising now. And meaning itself depends upon this continual reappearance. The sense that something matters, that something is about something else, relies upon retention — the carrying forward of distinctions and associations from one moment into another. Without this recursive movement of memory, the world ceases to present itself as meaningful in the familiar sense.
+Firstly, note that experience never once occurred outside this present moment. The past is not encountered directly; it appears only as memory arising now. And meaning itself depends upon this continual reappearance. The sense that something matters, that something is about something else, relies upon retention — the carrying forward of distinctions and associations from one moment into another. Without this recursive movement of memory, the world ceases to present itself as meaningful in the familiar sense.
 
 But if the grip loosens even briefly, this becomes visible. One sees that the bare moment contains no intrinsic declaration:
 *this is important,
@@ -18,10 +18,8 @@ It is like a chain sinnet with no foundational loop: each link held in place by 
 
 This is the deep paradox of selfhood and world. Distinctions become re-entered and stabilized until they seem objective and necessary, yet their origin cannot be located within the system they generate. The mind constructs continuity through repeated acts of remembrance and identification, then mistakes this continuity for an independently existing structure.
 
-At first this insight can feel nihilistic. If meaning depends upon memory, and memory itself floats without foundation, then nothing seems ultimately meaningful. But this conclusion still secretly assumes that meaning must exist as a permanent property hidden somewhere beneath experience.
+At first this insight can feel nihilistic. If meaning depends upon memory, and memory itself floats without foundation, then nothing seems ultimately meaningful. But this conclusion still secretly assumes that meaning must exist as a permanent property hidden somewhere beneath experience. Perhaps it does not.
 
-Perhaps it does not.
-
-Perhaps meaning is not a thing but an activity — not an eternal substance but a living process of recursive relation. Music does not exist inside isolated notes. It exists in movement, resonance, recurrence, and release. Likewise, meaning may arise only within the dynamic unfolding of memory and distinction, without requiring any final ground beneath it.
+Perhaps meaning is not a thing but an activity ... not an eternal substance but a living process of recursive relation. Music does not exist inside isolated notes. It exists in movement, resonance, recurrence, and release. Likewise, meaning may arise only within the dynamic unfolding of memory and distinction, without requiring any final ground beneath it.
 
 And when memory falls silent for a moment, what remains is not nothing. The bare moment may be empty of conceptual meaning entirely, yet it is also not lacking anything.
