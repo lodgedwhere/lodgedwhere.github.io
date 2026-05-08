@@ -16,7 +16,10 @@ Yet memory cannot ground itself either. Every meaning refers backward to prior m
 
 It is like a chain sinnet with no foundational loop: each link held in place by the others, the whole structure suspended without ultimate support.
 
+<--
 ![chain sinnet](../images/chainsinnet.jpg)
+-->
+<img src="../images/chainsinnet.jpg" alt="chain sinnet" width="50" height="200">
 
 This is the deep paradox of selfhood and world. Distinctions become re-entered and stabilized until they seem objective and necessary, yet their origin cannot be located within the system they generate. The mind constructs continuity through repeated acts of remembrance and identification, then mistakes this continuity for an independently existing structure.
 
