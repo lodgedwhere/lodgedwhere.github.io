@@ -4,13 +4,13 @@ We imagine ourselves as carrying meaning forward through time, gathering it from
 
 Firstly, experience never once occurred outside this present moment. The past is not encountered directly; it appears only as memory arising now. And meaning itself depends upon this continual reappearance. The sense that something matters, that something is about something else, relies upon retention — the carrying forward of distinctions and associations from one moment into another. Without this recursive movement of memory, the world ceases to present itself as meaningful in the familiar sense.
 
-If the grip loosens even briefly, this becomes visible. One sees that the bare moment contains no intrinsic declaration:
-this is important,
+But if the grip loosens even briefly, this becomes visible. One sees that the bare moment contains no intrinsic declaration:
+*this is important,
 this is you,
 this is your life,
-this is what things mean.
+this is what things mean.*
 
-There is still seeing. Still sound. Still sensation. But the interpretive overlay weakens, and with it the felt solidity of the world one thought oneself to inhabit.
+There is still seeing. Still sound. Still sensation. But the interpretive overlay is gone, and with its absence so too the felt solidity of the world one thought oneself to inhabit.
 
 Yet memory cannot ground itself either. Every meaning refers backward to prior meanings in an endless chain of inherited distinctions. At some point there must have been a beginning to memory, a first stabilization of significance that itself possessed no prior significance to justify it. Meaning appears therefore not as something founded, but as something recursively sustained.
 
