@@ -15,7 +15,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 -->
 - [A topological vortex model of personal self](essays/vortex.md)
 - [Cannabis as keisaku](essays/keisaku.md)
-- [Meaning without foundation](essays/meaning-without-foundation.md)
+- [The "daisy chain": Meaning without foundation](essays/meaning-without-foundation.md)
 - [Mind, as correlation code](essays/correlation.md) (A purely materialist view, taken to its limit, arrives at *emptiness of form*)
 - [Distinction, Reentry, and the Minimal Numeric Ego](pdfs/numerical_ego_model050526.pdf) (A synthesis of three posts (\*) below)
 - [Distinction, Persistence, and the Illusion of Thought](essays/the-game.md)
