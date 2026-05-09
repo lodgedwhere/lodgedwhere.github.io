@@ -13,6 +13,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 
 <!-- - [A Parity-Based Model of Relational Encoding and Grasping](essays/meaning-without-representation.md) (To form persistent statements “about” the world, the system must sacrifice part of its direct coupling to it, effectively veiling a portion of the incoming information.)
 -->
+- [A topological vortex model of personal self](essays/vortex.md)
 - [Cannabis as keisaku](essays/keisaku.md)
 - [Meaning without foundation](essays/meaning-without-foundation.md)
 - [Mind, as correlation code](essays/correlation.md) (A purely materialist view, taken to its limit, arrives at *emptiness of form*)
