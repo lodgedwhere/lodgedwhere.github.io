@@ -16,7 +16,7 @@ Yet memory cannot ground itself either. Every meaning refers backward to prior m
 
 It is like an untied chain sinnet, ie "daisy chain", a recursive knot with no foundational loop: each link held in place by the others, the whole structure suspended without ultimate support. As long as the process of adding another loop continues, a knot appears to form -- but never completes. 
 
-<img src="../images/chainsinnet.jpg" alt="chain sinnet" width="100" height="400">
+<img src="../images/daisychain.jpeg" alt="chain sinnet" width="100" height="400">
 
 This is the deep paradox of selfhood and world. Distinctions become re-entered and stabilized until they seem objective and necessary, yet their origin cannot be located within the system they generate. The mind constructs continuity through repeated acts of remembrance and identification, then mistakes this continuity for an independently existing structure.
 
