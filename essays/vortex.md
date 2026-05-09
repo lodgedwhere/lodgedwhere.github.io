@@ -1,6 +1,6 @@
 # A topological vortex model of personal self
 
-My son once tried selling “No Soliciting” signs door to door.
+My son started a business selling “No Soliciting” signs door to door.
 
 The joke conceals something profound. The act succeeds only by abolishing the condition that made it necessary. The purpose of the sale is to terminate the very process of selling. It is a self-negating transaction, a behavioral loop that closes against itself.
 
