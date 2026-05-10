@@ -68,6 +68,40 @@ immediately removes the incompatibility while preserving the original viable con
 
 The model therefore naturally exposes the tension between closure and grounding. Excessive grounding without relational stabilization dissolves coherent structure into transient local responses. Excessive closure imposes impossible global consistency conditions that trap the system in persistent frustration. Viable cognition requires relation, but suffering emerges when relation hardens into the demand for perfect self-grounding closure.
 
+## Evolutionary pressure prefers closure as entropy strategy
+
+The preceding framework leaves open an important question: why should correlated informational systems develop increasingly rigid closure dynamics at all? Why should a relational manifold move beyond distributed error correction into metastable self-maintaining structures resembling egoic continuity?
+
+One possible answer begins by distinguishing between open and closed correlated networks.
+
+An open-ended chain of coupled constraints can remain dynamically revisable. Local incompatibilities and defects propagate outward through the network and dissipate at boundaries. Such systems may still preserve information through distributed relational encoding, but they do not necessarily accumulate persistent frustration. Their organization remains fluid because no global continuity condition prevents continual reconfiguration.
+
+The situation changes once an additional higher-order constraint is imposed that attempts to preserve continuity across the entire evolving relational structure itself. In effect, the ends of the informational chain become tied together.
+
+At first, this closure is advantageous. The correlated manifold no longer merely stores transient sensory distinctions; it preserves extended relational organization through time. Information becomes “trapped” within a stabilized global structure rather than continually dissipating through open boundaries. The resulting organization possesses greater temporal persistence and therefore greater adaptive utility under evolutionary selection.
+
+But closure also changes the topology of the informational dynamics fundamentally.
+
+Once the relational manifold is globally constrained, local updates can no longer relax freely through boundary dissipation. Incompatibilities become trapped within the closed structure itself. The same continuity relations preserving long-timescale organization now prevent complete reconfiguration.
+
+As additional entangled constraints accumulate, the network can no longer converge toward a single globally satisfiable state. Instead it becomes confined to a landscape of metastable partial solutions separated by energetic barriers. Defects that would otherwise dissipate remain suspended within the closed manifold. Persistent frustration naturally emerges.
+
+In this view, the ego is not fundamentally another informational object added to cognition. Nor is it a hidden observer standing outside the system. Rather, it corresponds to the imposition and maintenance of global continuity constraints upon an otherwise dynamically revisable relational network.
+
+The self is therefore not a substance but a closure condition.
+
+This also clarifies why such structures become both adaptive and pathological simultaneously. Closure initially evolves because it preserves recoverable organization across longer temporal horizons. By maintaining low-entropy relational structure in the present, the organism preserves access to larger future spaces of thermodynamically reachable configurations. Biological cognition thus functions as a temporally extended entropy-management strategy.
+
+Yet the same closure dynamics that preserve continuity also generate irreducible metastability once the entangled manifold becomes sufficiently complex. The system can neither fully relax nor fully satisfy all constraints simultaneously.
+
+Suffering may therefore arise not merely from noise, attachment, or representational error, but from trapped incompatibilities within globally closed relational structures attempting to preserve continuity under finite thermodynamic and biological constraints.
+
+Desire and avoidance then acquire a natural informational interpretation. The organism continuously acts upon the grounded sensory world in an attempt to reduce unresolved tensions within the metastable relational manifold itself. Action becomes an indirect mechanism for redistributing structural frustration that cannot be fully resolved internally.
+
+Under this interpretation, the classical intuition that the self is both real and empty becomes less mysterious. The ego is dynamically real as a metastable informational structure, yet empty of independent substance because its persistence depends entirely upon ongoing closure dynamics distributed across a wider relational field.
+
+The framework therefore suggests that many familiar features of cognition — continuity, selfhood, conceptual fixation, desire, and suffering — may emerge naturally once correlated informational systems evolve from open dissipative networks into globally constrained metastable manifolds operating near the limits of recoverable organization.
+
 ## "Emptiness"
 
 The present framework also suggests a structural interpretation of the classical notion of emptiness, *sunyata*. In this context, emptiness does not mean nonexistence or nihilistic absence. Rather, it means that no stabilized structure possesses fully independent or self-grounding existence.
