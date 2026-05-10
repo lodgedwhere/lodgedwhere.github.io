@@ -26,7 +26,7 @@ Perhaps meaning is not a thing but an activity ... not an eternal substance but 
 
 And when memory falls silent for a moment, what remains is not nothing. The bare moment may be empty of conceptual meaning entirely, yet it is also not lacking anything.
 
-## Comment
+## Comment 1: A realist's objection
 
 One possible realist response to this essay is to insist that meaning ultimately derives from biology, embodiment, and the causal structure of a real external world. Organisms learn what “matters” because certain conditions preserve life while others threaten it. Memory does not invent significance from nothing; it tracks stable features of reality relevant to survival and flourishing.
 
@@ -45,3 +45,29 @@ This does not prove immortality. Rather, it undermines the assumption that there
 From this view, mortality resembles the loosening of a pattern more than the destruction of a thing. The chain sinnet relaxes, but no hidden knot was ever found at its center.
 
 And this may explain why the silence beneath conceptual meaning, though initially terrifying, can also appear strangely free of lack.
+
+## Comment 2: Inherent meaning in experience
+
+A further implication of the essay may lie hidden in the line:
+
+“Perhaps meaning is not a thing but an activity … not an eternal substance but a living process of recursive relation.”
+
+At first, the essay appears to suggest that meaning is recursively constructed by memory and therefore suspended without ultimate foundation. But this still risks preserving a subtle nihilism — the idea that meaning is something that must somehow be generated, imposed, or recovered from elsewhere.
+
+Yet perhaps the deeper point is the opposite.
+
+The realist and the nihilist may secretly share the same assumption: that meaning must exist as a property attached to experience from outside the immediate moment. The realist insists the property objectively exists; the nihilist insists it cannot be found. But both continue searching for something beyond immediacy to justify what is present.
+
+What if this structure of seeking is itself the illusion?
+
+If meaning is not a thing but an activity, then it is not something added onto reality by memory, narrative, biology, or conceptual interpretation. It does not need to be carried forward from the past and compared against the present in order for the present to matter. The moment is not meaningful because it refers to something else. It is meaningful in its very appearing.
+
+Or more carefully still: it is not lacking anything that must be supplied from elsewhere.
+
+This reframes the silence beneath conceptual thought. When memory and interpretation briefly loosen, the ordinary mind initially experiences terror because it assumes representational meaning is all meaning. If the chain of reference stops, it feels as though reality itself has become empty.
+
+But perhaps what disappears is only symbolic meaning — the endless movement in which one distinction refers to another distinction without end. What remains is not nihilism but immediacy without lack.
+
+The present moment refers only to itself because there is nowhere else for it to refer. Any “elsewhere” appears only as another present memory, thought, or anticipation arising now.
+
+And this may also explain why the dissolution of conceptual selfhood can weaken the problem of mortality. If meaning depends upon preserving a separate self across time, then death remains the ultimate catastrophe. But if meaning is inseparable from immediate being rather than narrative continuity, then the terror surrounding death begins to lose its foundation. Not because the organism becomes immortal, but because the completeness one sought was never actually located in temporal continuity to begin with.
