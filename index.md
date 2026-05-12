@@ -13,6 +13,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 
 <!-- - [A Parity-Based Model of Relational Encoding and Grasping](essays/meaning-without-representation.md) (To form persistent statements “about” the world, the system must sacrifice part of its direct coupling to it, effectively veiling a portion of the incoming information.)
 -->
+- [Both “life” and “ego” as evolutionary information-preserving structures](essays/dna-and-ego.md)
 - [A topological vortex model of personal self](essays/vortex.md)
 - [Cannabis as keisaku](essays/keisaku.md)
 - [The "daisy chain": Meaning without foundation](essays/meaning-without-foundation.md)
