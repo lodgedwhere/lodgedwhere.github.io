@@ -36,6 +36,4 @@ A line of poetry.
 A glimpse of mortality.
 A small dose of cannabis.
 
-Keisaku.
-
-And once the remembering occurs, nothing more helps.
+*Keisaku.*
