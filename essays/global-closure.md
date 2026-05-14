@@ -1,4 +1,4 @@
-#“I Am” as Global Closure
+# “I Am” as Global Closure
 
 Suppose consciousness is not fundamentally composed of objects, thoughts, sensations, or even awareness itself, but of networks of interrelated (entangled) constraints acting upon raw sensory information. 
 
