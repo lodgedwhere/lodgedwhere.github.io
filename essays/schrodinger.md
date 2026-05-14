@@ -21,7 +21,7 @@ At the biological level, DNA preserves adaptive information accumulated through 
 
 But the same logic extends further still.
 
-Suppose consciousness itself is not fundamentally composed of objects, thoughts, or sensations, but of networks of relational constraints acting upon raw sensory information. Correlations formed across informational channels generate stable structures by restricting accessible states. Meaning, identity, and world-models emerge not as substances but as metastable organizations preserving relational order.
+Suppose consciousness itself is not fundamentally composed of objects, thoughts, or sensations, but of networks of relational constraints acting upon raw sensory information. Correlations formed across informational channels as an evolution-driven error correction code, generating stable structures by restricting accessible states. Meaning, identity, and world-models emerge not as substances but as metastable organizations preserving relational order.
 
 Initially, this field of correlations resembles a fluid.
 Constraint relations remain local, transient, and continuously reconfigurable. Incompatible structures relax dynamically. But preservation pressures gradually freeze portions of the field into stable configurations through local closure. Within this framework, this is how concepts form. Memory appears. Predictive models stabilize. Degrees of freedom are sacrificed so that relational structures can persist through time.
