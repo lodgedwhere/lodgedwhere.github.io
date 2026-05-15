@@ -13,6 +13,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 
 <!-- - [A Parity-Based Model of Relational Encoding and Grasping](essays/meaning-without-representation.md) (To form persistent statements “about” the world, the system must sacrifice part of its direct coupling to it, effectively veiling a portion of the incoming information.)
 -->
+- [Schrödinger and the Preservation of Order](essays/schrodinger.md)
 - [Awakening as melting](essays/fluid.md)
 - ["I am" as global closure](essays/global-closure.md)
 - [Both “life” and “ego” as evolutionary information-preserving structures](essays/dna-and-ego.md)
