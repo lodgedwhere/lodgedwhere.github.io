@@ -266,7 +266,7 @@ Even the dharma must be relinquished.
 
 ---
 
-V. The Convergence
+VI. The Convergence
 
 Reentry does not stop with a single iteration.
 
@@ -322,7 +322,7 @@ Only approached through relinquishment.
 
 ---
 
-VI. The Topology of Spiritual Practice
+VII. The Topology of Spiritual Practice
 
 There is, however, a profound complication.
 
@@ -358,7 +358,7 @@ The relationship itself becomes the teaching.
 
 ---
 
-VII. Surrender and Recognition
+VIII. Surrender and Recognition
 
 To meditate is not to destroy coordinate systems.
 
@@ -404,7 +404,7 @@ It is discovering what was never absent.
 
 ---
 
-VIII. The Fire
+IX. The Fire
 
 Contemplation is not escape from life.
 
