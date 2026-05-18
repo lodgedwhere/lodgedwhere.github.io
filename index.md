@@ -13,6 +13,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 
 <!-- - [A Parity-Based Model of Relational Encoding and Grasping](essays/meaning-without-representation.md) (To form persistent statements “about” the world, the system must sacrifice part of its direct coupling to it, effectively veiling a portion of the incoming information.)
 -->
+- [Life is the interpretation, happening](essays/interpretation-happening.md)
 - [The Ouroboros of Information: Schrödinger, Mind, and the Recursive Architecture of Experience](essays/global-invariant.md)
 - [The Silent Machine: Limits of AI](essays/silent-machine.md)(Life and thus consciousness is like a flame that can only reproduce itself through a spatiotemporally continuous process of reproduction, not de novo creation.) 
 - [Schrödinger and the Preservation of Order](essays/schrodinger.md)
