@@ -62,7 +62,7 @@ Dog. Mother. Self. Fear.
 
 Each acts as an effective variable replacing a larger network of relations.
 
-Yet closure over any finite network carries an unavoidable cost. No finite network can satisfy every local constraint simultaneously. When closure occurs, most constraints are absorbed into coordinated structure—but a residue necessarily remains: constraints that cannot be simultaneously satisfied given the topology of the network.
+Yet closure over a random finite network in general carries a cost. Only few finite networks can satisfy every local constraint simultaneously. When closure occurs, most constraints are absorbed into coordinated structure—but a residue often remains: constraints that cannot be simultaneously satisfied given the topology of the network.
 
 These are defects.
 
