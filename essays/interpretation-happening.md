@@ -6,7 +6,7 @@ Closer examination reveals something stranger. The symbol and its interpreter ar
 
 A mark is not inherently a symbol. A sound, a word, a sensation, or a pattern only becomes meaningful relative to a system capable of distinguishing and responding to it. Yet that interpreting system—the mind, the self, the “reader”—is itself composed of inherited distinctions, memories, and relational structures. The decoder is built from prior acts of decoding. The cipher itself is encoded.
 
-Thus symbol and interpreter do not stand in sequence. They recursively generate one another. Meaning is not extracted by a detached observer consulting an internal dictionary. It appears at the interface itself—in the relation. The observer is not outside the process but an expression of it.
+Thus symbol and interpreter do not stand in sequence. They recursively generate one another, like the chicken and the egg. Meaning is not extracted by a detached observer consulting an internal dictionary. It appears at the interface itself—in the relation. The observer is not outside the process but an expression of it.
 
 This dissolves the old image of a homunculus hidden behind the eyes, reading the world from a private screen. No such reader can be found. For if there were, one would immediately have to ask: who interprets the interpreter?
 
