@@ -10,8 +10,4 @@ Thus symbol and interpreter do not stand in sequence. They recursively generate 
 
 This dissolves the old image of a homunculus hidden behind the eyes, reading the world from a private screen. No such reader can be found. For if there were, one would immediately have to ask: who interprets the interpreter?
 
-The answer may be that there is no final interpreter. There is only the recursive event: distinctions generating distinctions, symbols giving rise to the structures that make symbols possible.
-
-Life is not a separate self observing reality.
-
-Life is the interpretation happening.
+The answer may be that there is no final interpreter. There is only the recursive event: distinctions generating distinctions, symbols giving rise to the structures that make symbols possible, that make "reading this sentence" possible. 
