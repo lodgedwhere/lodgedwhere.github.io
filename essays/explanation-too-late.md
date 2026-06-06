@@ -18,6 +18,8 @@ The ego is not a conclusion but an assumption. It is the closure structure that 
 
 This is Gödel’s insight expressed existentially. A sufficiently rich formal system cannot establish its own consistency from within itself. Likewise, the ego cannot fully ground the fact of its own existence. It can only assume it and elaborate its consequences.
 
+This is not merely a practical limitation but a categorical one: the unmarked state is not a difficult object to reach but no object at all. No refinement of the marking operation arrives there. The instrument and the destination belong to different logical types. 
+
 From this perspective, the entire human enterprise unfolds naturally:
 
 The first distinction is ungroundable.
