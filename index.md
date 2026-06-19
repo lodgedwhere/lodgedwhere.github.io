@@ -13,6 +13,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 
 <!-- - [A Parity-Based Model of Relational Encoding and Grasping](essays/meaning-without-representation.md) (To form persistent statements “about” the world, the system must sacrifice part of its direct coupling to it, effectively veiling a portion of the incoming information.)
 -->
+- [Correlation code network as a model of mind](essays/correlation-summary.md)
 - [Learning is reentry](essays/learning-reentry.md)
 - [All explanation is too late](essays/explanation-too-late.md)
 - [Gödel’s Theorem as Yoga](essays/godel-yoga.md)
