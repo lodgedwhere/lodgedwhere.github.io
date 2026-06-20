@@ -13,6 +13,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 
 <!-- - [A Parity-Based Model of Relational Encoding and Grasping](essays/meaning-without-representation.md) (To form persistent statements “about” the world, the system must sacrifice part of its direct coupling to it, effectively veiling a portion of the incoming information.)
 -->
+- [The Only Axiom: An Essay on Resonance](essays/resonance.md)
 - [The only axiom](essays/one-axiom.md)
 - [Correlation code network as a model of mind](essays/correlation-summary.md)
 - [Learning is reentry](essays/learning-reentry.md)
