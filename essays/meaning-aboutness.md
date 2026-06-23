@@ -25,6 +25,7 @@ In structural terms, the metatheory has folded completely into the theory. The d
 This is why it sounds almost empty to the analytical mind. No new information is conveyed. Yet perhaps that is precisely its function. It does not provide another description. It refuses the search for a larger framework within which the speaker can be understood.
 
 The statement stands in its own context.  
+
 If meaning arises from the fold between object and context, then “I am that I am” points to the limit where that fold no longer generates an apparent inside and outside. 
 
 Nothing is explained by anything else.   
