@@ -13,6 +13,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 
 <!-- - [A Parity-Based Model of Relational Encoding and Grasping](essays/meaning-without-representation.md) (To form persistent statements “about” the world, the system must sacrifice part of its direct coupling to it, effectively veiling a portion of the incoming information.)
 -->
+- [Basis, Context, and the Illusion of Self-Grounding](essays/basis.md)
 - [AI and the zenith of mind](essays/AI-zenith.md)
 - [Gödel, Reentry, and the Persistence of Levels](essays/Godel-irreducible.md)
 - [Meaning, aboutness, reentry](essays/meaning-aboutness.md)
