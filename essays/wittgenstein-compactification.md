@@ -1,10 +1,10 @@
 # Wittgenstein’s Boundary and the Compactification of the Self
 
-“The subject does not belong to the world but is a limit of the world.” (5.632)
+*“The subject does not belong to the world but is a limit of the world.”* (5.632)
 
-“The eye is not in the visual field.” (5.633)
+*“The eye is not in the visual field.”* (5.633)
 
-“The self of solipsism shrinks to a point without extension, and there remains the reality coordinated with it.” (5.64)
+*“The self of solipsism shrinks to a point without extension, and there remains the reality coordinated with it.”* (5.64)
 
 These three remarks from the *Tractatus* are among Wittgenstein’s most enigmatic. They are usually read as suggestive observations about the peculiar status of the subject, but no clear mechanism is given. 
 
