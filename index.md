@@ -13,6 +13,7 @@ Links appear below in chronological order, more recent at the top. "Understandin
 
 <!-- - [A Parity-Based Model of Relational Encoding and Grasping](essays/meaning-without-representation.md) (To form persistent statements “about” the world, the system must sacrifice part of its direct coupling to it, effectively veiling a portion of the incoming information.)
 -->
+- [Compactification of the self](essays/compactification-self.md)
 - [Reality is that which cannot be denied](essays/reality-cannot-be-denied.md)
 - [“I am that I am”, (())](essays/i-am-that-i-am.md)
 - [Basis, Context, and the Illusion of Self-Grounding](essays/basis.md)
