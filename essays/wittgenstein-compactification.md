@@ -1,22 +1,27 @@
 # Wittgenstein’s Boundary and the Compactification of the Self
 
-*“The subject does not belong to the world but is a limit of the world.”* (5.632)
+“The subject does not belong to the world but is a limit of the world.” (5.632)
 
-*“The eye is not in the visual field.”* (5.633)
+“The eye is not in the visual field.” (5.633)
 
-*“The self of solipsism shrinks to a point without extension, and there remains the reality coordinated with it.”* (5.64)
+“The self of solipsism shrinks to a point without extension, and there remains the reality coordinated with it.” (5.64)
 
-These three remarks from the *Tractatus* are among Wittgenstein’s most enigmatic. They are usually read as suggestive observations about the peculiar status of the subject, but no clear mechanism is given. 
+These three remarks from the *Tractatus* are among Wittgenstein’s most enigmatic. They are usually read as suggestive observations about the peculiar status of the subject, but no clear mechanism is given.
 
 Why should the self be a boundary rather than an object? Why should it be invisible? And why should it “shrink to a point” while the world remains?
 
 I would like to propose that these remarks describe the geometry of selfhood with remarkable precision.
 
-Consider how the ordinary sense of self is constructed. An action occurs. A cup moves because a hand moved. The hand moved because the arm moved. The arm moved because the body moved.
+Consider how the ordinary sense of self is constructed. An action occurs. A cup moves because a hand moved. The hand moved because the arm moved. The arm moved because the body moved.  
+The mind naturally traces this causal chain backward toward its source.
 
-The mind naturally traces this causal chain backward toward its source.  
-Eventually, however, the explanation reaches an unusual place.  
-It arrives at the origin of perception itself.
+Eventually, however, the explanation reaches a limit. Every further explanation remains another event within experience, while the point from which experience itself is given lies beyond the chain of objects being explained. The causal inquiry has arrived, not at another thing, but at the **boundary of experience**. This boundary is not yet the self. It is simply the place where causal explanation terminates.
+
+Independently, experience possesses another remarkable feature: every perception is given from a point of view that never itself appears within what is perceived. The eye is not in the visual field. 
+
+This is the **origin of perception**.  
+These two limits need not be the same. One is the terminus of explanation; the other is the source from which the world appears.  
+At this point, the mind performs a subtle operation. It identifies the boundary reached by causal explanation with the origin of perception.
 
 This origin is unlike any other feature of experience.  
 It is never seen as an object.  
@@ -57,7 +62,7 @@ The “I” is not the precondition for this closure.
 It is the closure.
 
 Seen in this light, Wittgenstein’s remark,  
-“The self of solipsism shrinks to a point without extension, and there remains the reality coordinated with it”,   
+“The self of solipsism shrinks to a point without extension, and there remains the reality coordinated with it”,  
 becomes unexpectedly transparent.
 
 If the self is the product of a quotient rather than an object in the world, then it can possess no extension of its own. It is not a region of experience, nor a hidden observer located behind the eyes. It is simply the point representing an equivalence class created by the identification of two boundaries.
